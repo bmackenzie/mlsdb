@@ -1,0 +1,691 @@
+Performance,Performance,Performance,Performance,Performance,Performance,,,,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,,-additional
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches,-9999
+1,Paxten Aaronson,us USA,FWMF,Philadelphia,18-310,2003,2.1,1,0,0,7,8,1,2,2,5,0,0,0,18,3,4,42.9,Matches,4cd41883
+2,Lalas Abubakar,gh GHA,DF,Colorado Rapids,27-189,1994,14.0,5,0,0,26,6,0,2,32,14,0,1,0,128,51,24,68.0,Matches,4a67f05b
+3,Nicolás Acevedo,uy URU,MFDF,NYCFC,23-079,1999,11.5,4,0,0,20,14,1,18,37,21,0,0,0,129,18,8,69.2,Matches,6140be7b
+4,Ifunanyachi Achara,us USA,FWMF,Toronto FC,24-277,1997,2.6,1,0,0,5,3,0,4,7,4,0,0,0,21,6,8,42.9,Matches,d31bf83e
+5,Bryan Acosta,hn HON,MF,Colorado Rapids,28-220,1993,7.6,5,0,0,22,10,0,6,10,14,0,0,0,62,10,3,76.9,Matches,c5f400f4
+6,George Acosta,us USA,MF,Inter Miami,22-164,2000,0.1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,,Matches,409d5b26
+7,Kellyn Acosta,us USA,MFDF,Los Angeles FC,26-343,1995,14.2,4,0,0,22,11,0,16,15,10,0,0,0,102,9,13,40.9,Matches,ece10cfe
+8,Luciano Acosta,ar ARG,MF,FC Cincinnati,28-032,1994,15.1,3,0,0,24,37,7,44,17,20,0,0,0,113,3,9,25.0,Matches,363ba6d7
+9,Mo Adams,eng ENG,MF,Inter Miami,25-282,1996,3.9,3,0,0,9,10,0,0,9,11,0,0,0,31,0,4,0.0,Matches,00362ef7
+10,Samuel Adeniran,us USA,FWMF,Seattle,23-275,1998,0.8,0,0,0,2,0,0,2,1,0,0,0,0,7,2,2,50.0,Matches,86429529
+11,Harrison Afful,gh GHA,DFMF,Charlotte FC,35-343,1986,4.8,2,0,0,8,3,1,9,9,3,0,0,0,52,8,7,53.3,Matches,7d8ede09
+12,Oskar Ågren,se SWE,DF,San Jose,23-295,1998,1.0,0,0,0,1,1,0,0,3,0,0,0,0,13,7,1,87.5,Matches,5ad77e97
+13,Daniel Aguirre,us USA,MFFW,LA Galaxy,23-000,1999,1.4,0,0,0,1,2,0,2,3,0,0,0,0,12,5,1,83.3,Matches,ecc5063f
+14,Ali Ahmed,ca CAN,DF,Vancouver,21-265,2000,0.4,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,,Matches,540a5be1
+15,Arnaud Ake,ci CIV,FW,Nashville,24-092,1998,3.0,0,0,0,9,4,5,1,2,1,0,0,0,13,5,6,45.5,Matches,3402bb17
+16,Tesho Akindele,ca CAN,FW,Orlando City,30-093,1992,2.6,0,0,0,5,2,1,5,4,2,0,0,0,10,13,14,48.1,Matches,897304e5
+17,Ayo Akinola,ca CAN,FW,Toronto FC,22-163,2000,5.1,1,0,0,7,7,2,5,0,3,0,0,0,18,13,17,43.3,Matches,214d2406
+18,Jordy Alcivar,ec ECU,MF,Charlotte FC,22-331,1999,9.9,4,0,0,7,8,0,17,15,6,0,0,0,80,3,10,23.1,Matches,6e98c19f
+19,Caio Alexandre,br BRA,MF,Vancouver,23-128,1999,0.7,2,0,0,3,1,0,0,1,0,0,0,0,3,0,0,,Matches,08ac23b7
+20,Tony Alfaro,us USA,DF,D.C. United,29-017,1993,3.2,1,0,0,8,3,0,1,4,1,0,0,1,43,18,5,78.3,Matches,4118b12a
+21,Noah Allen,us USA,DFMF,Inter Miami,18-065,2004,3.5,0,0,0,1,2,0,10,6,5,0,0,0,22,1,6,14.3,Matches,043f389a
+22,Thiago Almada,ar ARG,FWMF,Atlanta Utd,21-067,2001,9.9,2,1,0,7,11,0,12,7,5,0,0,0,65,0,1,0.0,Matches,27f33438
+23,Osvaldo Alonso,cu CUB,MF,Atlanta Utd,36-233,1985,3.7,2,0,0,9,7,0,1,6,4,0,0,0,32,3,1,75.0,Matches,8449bfda
+24,Jozy Altidore,us USA,FW,New England,32-238,1989,5.5,1,0,0,6,4,3,3,2,2,0,0,0,23,8,7,53.3,Matches,8db8ad1e
+25,Efrain Alvarez,mx MEX,FWMF,LA Galaxy,20-013,2002,10.0,1,0,0,7,7,0,22,6,3,1,0,0,54,2,9,18.2,Matches,3cd08ab7
+26,Luis Amarilla,py PAR,FW,Minnesota Utd,26-311,1995,10.7,2,0,0,7,17,7,6,5,3,0,0,0,42,18,37,32.7,Matches,fa66adb6
+27,Frankie Amaya,us USA,MF,NY Red Bulls,21-279,2000,16.2,3,1,1,24,15,0,14,34,36,0,0,0,174,16,14,53.3,Matches,2e8bd00c
+28,Mikey Ambrose,us USA,DF,Atlanta Utd,28-270,1993,0.5,0,0,0,1,0,0,1,0,1,0,0,0,4,0,1,0.0,Matches,f649d6aa
+29,Malte Amundsen,dk DEN,DF,NYCFC,24-141,1998,10.6,1,0,0,13,4,0,33,20,14,0,0,0,105,9,11,45.0,Matches,83b6e15d
+30,Max Anchor,ca CAN,GK,Vancouver,17-346,2004,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches,d6aa8848
+31,Sebastian Anderson,us USA,DF,Colorado Rapids,19-328,2002,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,3,0.0,Matches,3a9911ce
+32,José Andrés Martínez,ve VEN,MF,Philadelphia,27-329,1994,15.6,8,1,1,20,25,0,7,42,26,0,1,0,203,15,19,44.1,Matches,c8364e8e
+33,Jalil Anibaba,us USA,DF,Columbus Crew,33-256,1988,0.9,1,0,0,1,1,0,0,0,1,0,0,0,8,3,1,75.0,Matches,e44593b0
+34,Themi Antonoglou,ca CAN,DF,Toronto FC,21-030,2001,0.1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,Matches,b137ee51
+35,Brian Anunga,cm CMR,MF,Nashville,25-326,1996,5.7,2,0,0,12,1,0,4,15,11,0,0,0,61,5,3,62.5,Matches,17b28ec7
+36,Cristian Arango,co COL,FW,Los Angeles FC,27-115,1995,11.8,3,0,0,20,24,2,16,3,4,0,0,0,46,26,31,45.6,Matches,fea9401e
+37,César Araujo,uy URU,MF,Orlando City,21-091,2001,14.4,4,1,0,23,51,0,2,23,22,0,0,0,155,12,8,60.0,Matches,3ed214ff
+38,Julian Araujo,mx MEX,DF,LA Galaxy,20-323,2001,13.9,1,0,0,23,11,0,36,33,21,0,1,0,132,22,25,46.8,Matches,8f4541c2
+39,Luiz Araújo,br BRA,FW,Atlanta Utd,26-030,1996,8.5,2,0,0,15,23,1,28,5,10,0,0,0,51,2,9,18.2,Matches,fa18c72e
+40,Daniel Armando Ríos,mx MEX,FW,Charlotte FC,27-130,1995,10.5,1,0,0,13,22,2,5,2,8,0,0,0,35,35,47,42.7,Matches,078b2c07
+41,Adam Armour,us USA,MF,Charlotte FC,19-278,2002,0.9,1,0,0,2,2,0,0,1,1,0,0,0,7,6,2,75.0,Matches,546c2c25
+42,Xavier Arreaga,ec ECU,DF,Seattle,27-277,1994,12.1,2,0,0,8,4,1,0,33,7,0,0,0,66,19,19,50.0,Matches,7f2b7640
+43,Kervin Arriaga,hn HON,MF,Minnesota Utd,24-178,1998,13.0,5,0,0,23,27,3,1,16,11,0,0,0,148,43,22,66.2,Matches,4f8a9f70
+44,Paul Arriola,us USA,FW,FC Dallas,27-147,1995,14.9,2,0,0,17,18,8,47,8,9,1,0,0,69,13,17,43.3,Matches,1bb2acce
+45,Artur,br BRA,MF,Columbus Crew,26-113,1996,12.0,4,0,0,20,11,2,5,29,19,0,0,0,129,9,10,47.4,Matches,ea6803c7
+46,Dairon Asprilla,co COL,FWMF,Portland Timbers,30-038,1992,9.5,3,0,0,19,20,5,14,9,10,0,0,0,59,21,24,46.7,Matches,218d336c
+47,Isaac Atanga,gh GHA,FW,FC Cincinnati,21-338,2000,0.5,0,0,0,0,0,0,0,1,0,0,0,0,5,1,0,100.0,Matches,ff0f2a53
+48,Joshua Atencio,us USA,MF,Seattle,20-152,2002,1.7,0,0,0,2,0,0,0,6,2,0,0,0,18,5,2,71.4,Matches,1f084637
+49,Roberto Avila,us USA,FWMF,Houston Dynamo,21-259,2000,1.7,3,0,0,6,5,1,0,2,3,0,0,0,4,2,9,18.2,Matches,bb666b57
+50,David Ayala,ar ARG,MF,Portland Timbers,19-341,2002,3.0,0,0,0,5,8,0,0,1,7,0,0,0,33,3,5,37.5,Matches,06dafc0e
+51,Edison Azcona,do DOM,MF,Inter Miami,18-223,2003,0.2,1,0,0,3,0,0,1,1,1,0,0,0,0,0,0,,Matches,05f54837
+52,Dominique Badji,sn SEN,FWDF,FC Cincinnati,29-259,1992,11.2,3,0,0,23,17,5,10,10,12,0,1,0,57,24,22,52.2,Matches,758ac389
+53,Zico Bailey,us USA,DFMF,FC Cincinnati,21-309,2000,0.9,0,0,0,0,1,0,0,3,1,0,0,0,4,0,2,0.0,Matches,aa9e1161
+54,Corey Baird,us USA,FWMF,Houston Dynamo,26-153,1996,7.5,1,0,0,5,8,4,11,11,7,0,0,0,44,4,13,23.5,Matches,2d0d1442
+55,Reed Baker-Whiting,us USA,MF,Seattle,17-093,2005,1.0,0,0,0,0,1,0,1,1,0,0,0,0,2,1,2,33.3,Matches,816d7aec
+56,Michael Baldisimo,ca CAN,MF,Vancouver,22-080,2000,3.5,1,0,0,12,4,0,1,3,8,0,0,0,34,2,4,33.3,Matches,894b41c5
+57,Tom Barlow,us USA,FW,NY Red Bulls,26-359,1995,7.9,2,0,0,22,4,5,6,0,6,0,0,0,30,30,44,40.5,Matches,da4821de
+58,Álvaro Barreal,ar ARG,FWDF,FC Cincinnati,21-319,2000,9.1,1,0,0,13,11,2,29,11,10,1,0,0,61,8,14,36.4,Matches,ffca53e1
+59,Michael Barrios,co COL,FW,Colorado Rapids,31-072,1991,10.1,1,0,0,6,14,2,45,5,5,0,0,0,58,4,11,26.7,Matches,df782c79
+60,Ethan Bartlow,us USA,DFMF,Houston Dynamo,22-150,2000,5.8,2,0,0,6,1,0,0,5,6,0,0,0,30,7,7,50.0,Matches,552898bd
+61,Zorhan Bassong,ca CAN,DF,CF Montréal,23-056,1999,1.9,1,0,0,4,0,2,6,5,2,0,0,0,16,3,6,33.3,Matches,6297d826
+62,Tanner Beason,us USA,DF,San Jose,25-101,1997,9.2,0,0,0,8,15,1,2,19,7,0,0,0,66,23,11,67.6,Matches,3f1b018e
+63,Alejandro Bedoya,us USA,MF,Philadelphia,35-064,1987,15.9,3,0,0,25,4,2,28,18,12,0,0,0,121,46,52,46.9,Matches,9a6f8dfd
+64,Steven Beitashour,ir IRN,DF,Colorado Rapids,35-151,1987,6.7,1,0,0,9,9,0,8,12,8,0,0,0,36,4,2,66.7,Matches,64f1680a
+65,Jon Bell,us USA,DF,New England,24-310,1997,5.5,0,0,0,5,4,0,0,9,6,0,0,0,44,13,9,59.1,Matches,658a3134
+66,Ben Bender,us USA,MF,Charlotte FC,21-117,2001,12.9,0,0,0,16,11,1,15,14,9,0,0,0,97,12,19,38.7,Matches,bc307884
+67,Sebastian Berhalter,us USA,MF,Vancouver,21-046,2001,8.9,3,0,0,17,13,0,6,27,20,0,0,0,98,9,8,52.9,Matches,f33ee427
+68,Miguel Berry,es ESP,FW,Columbus Crew,24-289,1997,10.8,0,0,0,14,16,7,4,6,4,0,0,0,34,22,69,24.2,Matches,a5532e80
+69,Nick Besler,us USA,MFDF,Real Salt Lake,29-056,1993,0.6,0,0,0,1,1,0,1,1,4,0,0,0,7,5,0,100.0,Matches,cc9fa1a8
+70,Victor Bezerra,us USA,FW,Chicago Fire,22-147,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,cbfb6ca5
+71,David Bingham,us USA,GK,Portland Timbers,32-256,1989,1.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Matches,7fd42a85
+72,Steve Birnbaum,us USA,DF,D.C. United,31-160,1991,15.0,2,0,0,30,17,1,2,29,9,0,0,0,185,102,30,77.3,Matches,26637ac8
+73,Tyler Blackett,eng ENG,DF,FC Cincinnati,28-091,1994,11.4,5,0,0,14,2,1,0,12,3,0,1,0,89,25,14,64.1,Matches,a68a5466
+74,Tristan Blackmon,us USA,DF,Vancouver,25-324,1996,8.9,1,0,0,4,5,1,1,26,10,0,0,0,76,18,8,69.2,Matches,7f35d14e
+75,Andre Blake,jm JAM,GK,Philadelphia,31-223,1990,17.0,1,0,0,0,1,0,0,0,0,0,0,0,99,0,0,,Matches,b3b21a11
+76,Sebastián Blanco,ar ARG,FWMF,Portland Timbers,34-109,1988,9.4,4,0,0,10,16,1,37,5,5,0,0,0,48,4,11,26.7,Matches,4ddd0834
+77,Latif Blessing,gh GHA,MF,Los Angeles FC,25-184,1996,7.8,0,0,0,11,26,2,2,15,13,0,0,0,91,9,12,42.9,Matches,5153d32e
+78,Emmanuel Boateng,gh GHA,FWMF,New England,28-166,1994,5.7,1,0,0,7,6,2,21,6,2,0,0,0,30,2,5,28.6,Matches,25f77a5f
+79,Blake Bodily,us USA,DFFW,Portland Timbers,24-170,1998,0.2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches,612a0951
+80,Jonathan Bond,eng ENG,GK,LA Galaxy,29-044,1993,16.0,1,0,0,0,3,0,0,0,0,0,0,0,84,0,0,,Matches,c3a86eea
+81,Pablo Bonilla,ve VEN,DF,Portland Timbers,22-212,1999,2.8,0,1,0,4,8,0,4,2,4,0,0,0,21,8,2,80.0,Matches,da23cdc3
+82,Alex Bono,us USA,GK,Toronto FC,28-068,1994,14.0,0,0,0,0,3,0,0,0,0,0,0,0,99,0,0,,Matches,aa28a396
+83,Jonathan Bornstein,us USA,DFFW,Chicago Fire,37-237,1984,5.7,0,0,0,8,3,0,11,11,8,0,0,0,45,16,7,69.6,Matches,79a6c95f
+84,Dylan Borrero,co COL,FW,New England,20-178,2002,4.0,1,0,0,0,6,0,10,5,6,0,0,0,14,1,6,14.3,Matches,a72d14de
+85,Gustavo Bou,ar ARG,FW,New England,32-134,1990,7.4,2,0,0,7,4,8,16,6,2,0,0,0,38,4,4,50.0,Matches,3dfcc735
+86,Ousseni Bouda,bf BFA,FW,San Jose,22-065,2000,1.2,2,0,0,5,2,0,3,1,3,1,0,0,8,2,0,100.0,Matches,0672f944
+87,Michael Boxall,nz NZL,DF,Minnesota Utd,33-318,1988,15.0,6,0,0,20,4,0,1,39,15,0,1,0,122,28,14,66.7,Matches,6bfa0d3a
+88,Michael Bradley,us USA,MF,Toronto FC,34-336,1987,16.9,2,0,0,12,22,0,2,30,23,0,0,0,227,13,21,38.2,Matches,fd5e3a73
+89,Zachary Brault-Guillard,ca CAN,DF,CF Montréal,23-184,1998,3.7,0,0,0,0,2,0,13,5,3,0,0,0,22,2,6,25.0,Matches,948a58c2
+90,Claudio Bravo,ar ARG,DF,Portland Timbers,25-111,1997,10.7,6,1,1,17,11,0,19,39,30,0,2,0,129,13,14,48.1,Matches,5619c5e8
+91,Brenner,br BRA,FW,FC Cincinnati,22-167,2000,7.2,2,0,0,5,10,1,9,1,13,0,0,0,29,3,11,21.4,Matches,279508bf
+92,Sebastian Breza,ca CAN,GK,CF Montréal,24-109,1998,17.0,1,0,0,1,2,0,0,0,0,0,0,0,69,0,0,,Matches,52e7f812
+93,Emiliano Brienza,ca CAN,FW,Vancouver,20-054,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0.0,Matches,b54cf257
+94,Andrew Brody,us USA,DF,Real Salt Lake,27-060,1995,16.3,1,0,0,6,11,1,34,31,11,0,0,0,135,18,11,62.1,Matches,33e46323
+95,Brandt Bronico,us USA,MF,Charlotte FC,27-012,1995,16.7,4,0,0,38,14,0,2,31,19,0,0,0,178,25,13,65.8,Matches,bd4460b1
+96,Javain Brown,jm JAM,DF,Vancouver,23-115,1999,11.9,3,0,0,14,6,1,33,29,17,0,0,0,81,20,16,55.6,Matches,3d14c62e
+97,Will Bruin,us USA,FW,Seattle,32-251,1989,4.3,1,0,0,4,7,4,2,2,1,0,0,0,12,7,11,38.9,Matches,87a6ac29
+98,Adam Buksa,pl POL,FW,New England,25-355,1996,9.1,3,1,1,20,19,2,1,3,1,0,0,0,29,44,41,51.8,Matches,3b676989
+99,Teal Bunbury,us USA,FW,Nashville,32-125,1990,1.3,0,0,0,3,3,0,0,0,2,0,0,0,4,2,10,16.7,Matches,3077fce8
+100,Nkosi Burgess,us USA,DF,FC Dallas,25-112,1997,7.0,1,0,0,5,3,0,1,11,7,0,0,0,46,16,11,59.3,Matches,4a07ae31
+101,Cory Burke,jm JAM,FW,Philadelphia,30-186,1991,6.9,4,0,0,22,9,2,7,2,8,0,0,0,40,44,38,53.7,Matches,39fde61c
+102,Handwalla Bwana,so SOM,FW,Nashville,25-007,1997,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches,b56080ee
+103,Brandon Bye,us USA,DF,New England,26-215,1995,13.0,2,0,0,15,14,0,61,19,10,0,0,0,104,39,19,67.2,Matches,9fcd12af
+104,Kevin Cabral,fr FRA,FWMF,LA Galaxy,22-357,1999,9.7,1,1,0,18,19,1,21,6,10,1,0,0,45,4,20,16.7,Matches,42af215b
+105,Deiber Caicedo,co COL,FWMF,Vancouver,22-099,2000,10.9,2,0,0,9,18,6,30,6,8,1,0,0,58,3,26,10.3,Matches,9bfa2f52
+106,Scott Caldwell,us USA,MF,Real Salt Lake,31-109,1991,9.9,5,0,0,16,14,0,1,19,9,0,0,0,100,5,9,35.7,Matches,4a54592d
+107,Drake Callender,us USA,GK,Inter Miami,24-268,1997,8.0,1,0,0,0,0,0,0,0,0,0,0,0,35,0,0,,Matches,c4d9567d
+108,Alexander Callens,pe PER,DF,NYCFC,30-059,1992,16.0,5,0,0,18,12,1,2,41,17,0,0,0,148,42,19,68.9,Matches,af34f10d
+109,Francisco Calvo,cr CRC,DF,San Jose,29-359,1992,13.0,4,0,0,17,13,1,4,50,22,1,0,0,150,40,33,54.8,Matches,706bd23f
+110,Rudy Camacho,fr FRA,DF,CF Montréal,31-119,1991,15.0,4,0,0,20,6,0,3,42,10,0,1,0,175,39,14,73.6,Matches,6ad16d47
+111,Geoff Cameron,us USA,DF,FC Cincinnati,36-356,1985,9.7,2,0,0,11,8,0,2,28,13,0,1,0,96,22,18,55.0,Matches,1a160ea3
+112,Leonardo Campana,ec ECU,FW,Inter Miami,21-343,2000,11.9,0,0,0,22,15,7,4,5,6,0,0,0,24,21,56,27.3,Matches,bf9c0749
+113,George Campbell,us USA,DF,Atlanta Utd,21-010,2001,10.9,3,0,0,14,10,0,0,38,12,0,0,0,108,35,17,67.3,Matches,45e1a597
+114,Russell Canouse,us USA,MF,D.C. United,27-021,1995,9.5,3,0,0,22,14,0,3,13,15,0,0,0,74,7,23,23.3,Matches,ec730d9a
+115,Nathan Cardoso,br BRA,DF,San Jose,27-050,1995,8.2,3,0,0,10,11,0,0,33,15,0,1,0,77,22,9,71.0,Matches,d4438745
+116,Antonio Carlos,br BRA,DF,Orlando City,29-117,1993,5.7,1,0,0,7,6,0,1,16,5,0,0,0,36,12,8,60.0,Matches,949fe1e8
+117,Julián Carranza,ar ARG,FW,Philadelphia,22-041,2000,11.2,7,1,1,37,37,8,7,7,14,1,0,0,43,25,57,30.5,Matches,3e9ae1db
+118,Adalberto Carrasquilla,pa PAN,MF,Houston Dynamo,23-216,1998,11.6,7,1,1,25,27,0,8,25,14,0,0,0,114,10,6,62.5,Matches,f087912d
+119,Javier Casas,us USA,MF,Chicago Fire,19-049,2003,0.2,1,0,0,2,0,0,0,1,0,0,0,0,2,0,0,,Matches,2ed8d81b
+120,Julio Cascante,cr CRC,DF,Austin FC,28-272,1993,16.0,3,0,0,22,15,0,2,28,15,0,0,0,120,53,35,60.2,Matches,cc120b4f
+121,Cristian Cásseres Jr.,ve VEN,MFFW,NY Red Bulls,22-163,2000,12.1,6,0,0,42,21,0,8,26,32,0,0,0,180,23,18,56.1,Matches,f86fe8c1
+122,Valentín Castellanos,ar ARG,FW,NYCFC,23-272,1998,12.6,7,0,0,30,23,8,17,7,9,1,0,0,59,49,45,52.1,Matches,da76bab4
+123,Lucas Cavallini,ca CAN,FW,Vancouver,29-186,1992,10.7,5,0,0,30,45,2,9,3,10,1,0,0,45,44,46,48.9,Matches,dd8de641
+124,Roman Celentano,us USA,GK,FC Cincinnati,21-291,2000,10.0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,,Matches,42ba8628
+125,Darwin Cerén,sv SLV,MF,Houston Dynamo,32-183,1989,7.5,3,0,0,15,10,1,3,22,15,0,0,0,51,3,10,23.1,Matches,a58de3f0
+126,Edwin Cerrillo,us USA,MF,FC Dallas,21-272,2000,8.7,3,0,0,17,6,0,2,10,17,0,1,0,84,3,8,27.3,Matches,bd060315
+127,Maikel Chang,cu CUB,MFFW,Real Salt Lake,31-075,1991,11.0,0,0,0,6,8,2,36,12,16,0,0,0,80,7,12,36.8,Matches,04cc9edd
+128,Maxime Chanot,lu LUX,DF,NYCFC,32-223,1989,3.7,0,0,0,4,7,0,0,7,2,0,0,0,39,14,7,66.7,Matches,ca366055
+129,Diego Chará,co COL,MF,Portland Timbers,36-088,1986,14.1,6,0,0,34,32,1,3,28,22,0,0,0,150,9,10,47.4,Matches,6260cc9d
+130,Yimmi Chará,co COL,MFFW,Portland Timbers,31-091,1991,17.3,1,0,0,18,23,4,22,30,24,1,0,0,149,2,17,10.5,Matches,9df9baab
+131,Mathieu Choiniere,ca CAN,DFMF,CF Montréal,23-145,1999,6.6,0,0,0,6,9,0,12,8,10,0,0,0,42,4,8,33.3,Matches,017459bb
+132,Léo Chú,br BRA,FWMF,Seattle,22-087,2000,5.2,0,0,0,10,9,1,11,6,10,0,0,0,24,2,1,66.7,Matches,d88ebbe9
+133,Kadin Chung,ca CAN,DF,Toronto FC,23-300,1998,5.0,1,0,0,2,9,0,3,13,5,0,1,0,35,8,8,50.0,Matches,d616ce40
+134,José Cifuentes,ec ECU,MF,Los Angeles FC,23-112,1999,13.0,6,0,0,31,12,0,18,16,27,0,0,0,113,11,15,42.3,Matches,8c8c07a7
+135,Ronaldo Cisneros,mx MEX,FW,Atlanta Utd,25-175,1997,9.2,0,0,0,2,3,3,6,5,1,0,0,0,25,11,22,33.3,Matches,e526c193
+136,Abdoulaye Cissoko,fr FRA,DF,Seattle,22-187,1999,3.1,0,0,0,3,3,0,0,6,4,0,0,0,21,2,3,40.0,Matches,52a6ef30
+137,Caden Clark,us USA,MFFW,NY Red Bulls,19-036,2003,1.6,1,0,0,9,4,1,1,2,1,0,0,0,11,2,10,16.7,Matches,6e327d0d
+138,Steve Clark,us USA,GK,Houston Dynamo,36-079,1986,16.0,1,0,0,1,1,0,0,0,0,0,1,0,70,0,0,,Matches,ed6320b7
+139,Stefan Cleveland,us USA,GK,Seattle,28-038,1994,3.0,0,0,0,0,1,0,0,0,0,0,0,0,14,0,0,,Matches,873fdbdf
+140,Jackson Conway,us USA,FWMF,Atlanta Utd,20-211,2001,0.4,1,0,0,2,1,0,0,0,1,0,0,0,1,1,5,16.7,Matches,1cfa6e1a
+141,Gabriele Corbo,it ITA,DF,CF Montréal,22-172,2000,3.8,0,0,0,6,0,0,1,8,2,0,0,0,21,6,3,66.7,Matches,091795f2
+142,Sergio Córdova,ve VEN,FW,Real Salt Lake,24-327,1997,12.2,1,0,0,16,30,9,4,0,8,0,0,0,67,36,59,37.9,Matches,229cd98a
+143,Carlos Coronel,br BRA,GK,NY Red Bulls,25-185,1996,17.0,1,0,0,0,1,0,0,0,0,0,0,0,89,0,0,,Matches,5c07e176
+144,Guzmán Corujo,uy URU,DF,Charlotte FC,25-334,1996,18.0,3,0,0,17,16,0,1,36,22,0,1,0,122,29,23,55.8,Matches,5c6051ad
+145,Douglas Costa,br BRA,MFFW,LA Galaxy,31-291,1990,8.4,3,1,0,15,6,3,16,1,1,0,0,0,36,3,8,27.3,Matches,4fa7cb9b
+146,Séga Coulibaly,fr FRA,DF,LA Galaxy,26-023,1996,9.8,5,0,0,17,17,0,0,15,11,0,0,0,78,19,18,51.4,Matches,dab9537e
+147,Cade Cowell,us USA,FWMF,San Jose,18-261,2003,9.9,2,0,0,8,8,2,20,7,7,0,0,0,33,3,17,15.0,Matches,f8e95f87
+148,Maxime Crépeau,ca CAN,GK,Los Angeles FC,28-052,1994,16.0,2,0,0,0,2,0,0,0,0,0,0,0,86,0,0,,Matches,ea42e480
+149,Daniel Crisostomo,us USA,MF,Los Angeles FC,25-167,1997,0.3,1,0,0,3,0,0,0,1,0,0,0,0,2,1,0,100.0,Matches,33fdd2aa
+150,Cody Cropper,us USA,GK,Vancouver,29-136,1993,7.2,1,0,0,1,1,0,0,0,0,0,1,0,32,0,0,,Matches,aa133046
+151,Allan Cruz,cr CRC,MF,FC Cincinnati,26-128,1996,1.6,2,0,0,6,0,1,2,7,3,0,0,0,5,1,1,50.0,Matches,030105a5
+152,Adrián Cubas,py PAR,MF,Vancouver,26-041,1996,2.0,1,0,0,5,0,0,0,7,5,0,0,0,21,1,0,100.0,Matches,9b40a6ea
+153,Rafael Czichos,de GER,DF,Chicago Fire,32-049,1990,11.9,3,1,1,16,9,0,1,30,18,0,0,1,117,39,24,61.9,Matches,b0a0698b
+154,Cristián Dajome,co COL,DFMF,Vancouver,28-180,1994,12.2,2,0,0,25,25,3,31,16,18,0,1,0,51,8,18,30.8,Matches,a065e877
+155,Abu Danladi,gh GHA,FWMF,Minnesota Utd,26-257,1995,4.6,0,0,0,8,4,0,13,8,9,0,0,0,34,2,6,25.0,Matches,507383d1
+156,Bode Davis,us USA,MF,Real Salt Lake,20-130,2002,0.3,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0.0,Matches,891f8b82
+157,Jake Davis,us USA,MF,Sporting KC,20-180,2002,0.2,0,0,0,3,0,0,0,0,0,,,0,,,,,Matches,79d3a503
+158,Sean Davis,us USA,MF,Nashville,29-144,1993,16.0,2,0,0,14,14,1,5,41,33,0,0,0,132,19,5,79.2,Matches,cb75cac9
+159,Miloš Degenek,au AUS,DF,Columbus Crew,28-065,1994,11.6,0,0,0,9,6,0,2,29,7,0,1,0,132,51,20,71.8,Matches,c8e65157
+160,Alex DeJohn,us USA,DF,Atlanta Utd,31-053,1991,4.6,0,0,0,6,0,0,0,11,4,0,0,0,47,24,6,80.0,Matches,2a6c024c
+161,A.J. DeLaGarza,gu GUM,DF,New England,34-240,1987,2.7,0,0,0,4,2,0,4,2,5,0,0,0,22,1,1,50.0,Matches,171b3c37
+162,Marky Delgado,us USA,MF,LA Galaxy,27-047,1995,14.3,3,1,1,16,22,0,6,45,16,0,0,0,166,11,7,61.1,Matches,7f6a25b7
+163,Nick DePuy,us USA,DF,LA Galaxy,27-230,1994,10.1,4,0,0,14,2,1,0,14,7,0,0,0,91,29,13,69.0,Matches,ba7b4e67
+164,Silvester van der Water,nl NED,FWMF,Orlando City,25-275,1996,0.5,0,0,0,2,0,0,2,0,0,0,0,0,4,0,0,,Matches,5d83500d
+165,Joey DeZart,us USA,DF,Orlando City,24-023,1998,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,9d7142a6
+166,Luis Díaz,cr CRC,FWMF,Columbus Crew,23-208,1998,3.4,2,0,0,4,11,1,9,6,4,0,0,0,20,1,4,20.0,Matches,1c9838aa
+167,Bakaye Dibassy,ml MLI,DF,Minnesota Utd,32-325,1989,16.0,4,0,0,27,5,1,6,49,14,0,0,0,137,38,30,55.9,Matches,247accfd
+168,Clément Diop,sn SEN,GK,Inter Miami,28-263,1993,3.0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,,Matches,0d5c0218
+169,Sofiane Djeffal,fr FRA,MF,D.C. United,23-084,1999,9.3,2,0,0,23,11,0,4,24,14,0,0,0,119,14,12,53.8,Matches,29d85f83
+170,Moussa Djitte,sn SEN,FW,Austin FC,22-271,1999,2.3,0,0,0,3,1,1,1,0,3,0,0,0,13,4,9,30.8,Matches,627b570a
+171,Ethan Dobbelaere,us USA,DF,Seattle,19-230,2002,1.0,0,0,0,0,1,0,1,0,2,0,0,0,5,0,2,0.0,Matches,1e772b7c
+172,Cecilio Domínguez,py PAR,FWMF,Austin FC,27-325,1994,3.1,1,0,0,3,10,1,9,4,1,0,0,0,14,1,0,100.0,Matches,3162d667
+173,Christopher Donovan,us USA,MFFW,Philadelphia,21-328,2000,0.3,0,0,0,1,1,0,1,0,1,0,0,0,4,2,0,100.0,Matches,8f995d10
+174,Griffin Dorsey,us USA,DF,Houston Dynamo,23-119,1999,7.7,2,0,0,10,8,0,16,20,9,0,0,0,63,8,11,42.1,Matches,c182ca04
+175,Hassani Dotson,us USA,DFMF,Minnesota Utd,24-330,1997,7.0,1,0,0,15,11,0,5,15,16,0,1,0,70,11,9,55.0,Matches,8f2af1ed
+176,Sebastián Driussi,ar ARG,MFFW,Austin FC,26-143,1996,16.7,4,0,0,27,28,3,19,9,16,0,0,0,97,14,25,35.9,Matches,60e86875
+177,Bryce Duke,us USA,MF,Inter Miami,21-124,2001,7.4,2,0,0,11,16,0,7,10,9,0,0,0,52,3,14,17.6,Matches,59557625
+178,Cameron Duke,us USA,MFDF,Sporting KC,21-139,2001,10.0,3,0,0,24,25,0,13,22,10,0,0,0,55,4,18,18.2,Matches,c679d9fd
+179,Jhon Durán,co COL,FW,Chicago Fire,18-201,2003,3.7,4,1,1,8,13,2,2,3,3,0,0,0,20,14,22,38.9,Matches,414184f7
+180,Chris Durkin,us USA,MF,D.C. United,22-144,2000,7.9,4,1,1,19,18,0,8,18,9,0,0,0,73,9,6,60.0,Matches,0ffd4373
+181,Dom Dwyer,us USA,FWMF,Atlanta Utd,31-337,1990,2.6,2,1,0,4,6,3,2,1,0,0,0,0,8,4,5,44.4,Matches,bdfc15f8
+182,Jeremy Ebobisse,us USA,FW,San Jose,25-138,1997,15.0,0,0,0,13,19,2,4,1,3,0,0,0,39,11,23,32.4,Matches,5fa7b2ec
+183,Daniel Edelman,us USA,MF,NY Red Bulls,19-065,2003,0.4,0,0,0,0,0,0,0,2,1,0,0,0,5,1,1,50.0,Matches,a8de0bd5
+184,Javier Eduardo López,mx MEX,MFFW,San Jose,27-288,1994,2.6,0,0,0,1,4,0,3,1,3,0,0,0,11,0,3,0.0,Matches,f851b52f
+185,Earl Edwards Jr.,us USA,GK,New England,30-159,1992,4.0,0,0,0,0,1,0,0,0,0,0,0,0,19,0,0,,Matches,10f6f942
+186,Raheem Edwards,ca CAN,DF,LA Galaxy,26-352,1995,14.3,0,0,0,33,23,0,26,32,33,0,0,0,119,23,19,54.8,Matches,b828d56a
+187,Tom Edwards,eng ENG,DF,NY Red Bulls,23-161,1999,15.7,4,0,0,19,13,2,33,29,16,0,0,0,177,40,16,71.4,Matches,1b780599
+188,Jack Elliott,eng ENG,DF,Philadelphia,26-311,1995,16.9,1,0,0,22,6,0,1,27,24,0,1,0,170,48,28,63.2,Matches,041deebd
+189,Kalil ElMedkhar,us USA,FWMF,FC Dallas,22-318,1999,0.1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,1,0.0,Matches,272c1aaf
+190,Franco Escobar,ar ARG,DF,Los Angeles FC,27-131,1995,4.2,0,0,0,1,4,0,4,9,4,0,0,0,46,3,5,37.5,Matches,54f33d0e
+191,Cristian Espinoza,ar ARG,FWMF,San Jose,27-090,1995,15.1,3,0,0,22,14,4,58,15,6,0,0,0,87,1,10,9.1,Matches,9c794a80
+192,Jhon Espinoza,ec ECU,DFFW,Chicago Fire,23-128,1999,3.2,4,0,0,11,2,1,8,3,5,0,1,0,25,4,7,36.4,Matches,79666d5a
+193,Roger Espinoza,hn HON,MF,Sporting KC,35-250,1986,12.8,7,0,0,28,12,1,16,26,19,0,0,0,110,20,22,47.6,Matches,60b7c195
+194,Lucas Esteves,br BRA,DF,Colorado Rapids,22-008,2000,10.3,3,1,0,22,9,2,31,20,10,0,0,0,61,6,6,50.0,Matches,c6ec0258
+195,Michael Estrada,ec ECU,FW,D.C. United,26-086,1996,6.3,1,0,0,7,5,6,3,2,2,0,0,0,15,14,20,41.2,Matches,773f5f12
+196,Derrick Etienne,ht HAI,FWDF,Columbus Crew,25-219,1996,11.8,2,0,0,10,20,15,36,14,7,0,0,0,75,5,6,45.5,Matches,59059f1e
+197,Diego Fagúndez,uy URU,FWMF,Austin FC,27-138,1995,14.9,2,0,0,14,17,7,30,10,13,0,0,0,85,1,12,7.7,Matches,fe81682e
+198,Mamadou Fall,sn SEN,DF,Los Angeles FC,19-223,2002,12.1,5,0,0,16,1,0,1,37,9,0,0,0,117,27,10,73.0,Matches,805a2a11
+199,Marco Farfan,us USA,DF,FC Dallas,23-232,1998,16.5,4,0,0,19,31,0,19,29,15,0,0,0,138,33,23,58.9,Matches,cfc68595
+200,Andrew Farrell,us USA,DF,New England,30-091,1992,15.7,4,0,0,11,6,0,1,29,18,0,1,0,154,15,10,60.0,Matches,71eda165
+201,Mohamed Farsi,ca CAN,FWMF,Columbus Crew,22-198,1999,0.3,0,0,0,1,0,0,1,0,0,0,0,0,2,1,1,50.0,Matches,81039302
+202,Felipe,br BRA,MFFW,Austin FC,31-275,1990,3.6,2,0,0,9,8,0,3,3,2,0,0,0,24,1,3,25.0,Matches,2415bd0a
+203,Thiago Fernandes,br BRA,FWMF,Houston Dynamo,21-111,2001,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,e3550df1
+204,Omir Fernandez,us USA,MFFW,NY Red Bulls,23-144,1999,11.9,1,0,0,10,26,1,17,12,16,1,0,0,73,14,25,35.9,Matches,622986f0
+205,Jesus Ferreira,us USA,FWMF,FC Dallas,21-190,2000,15.3,2,0,0,15,5,2,14,16,9,0,0,0,70,9,27,25.0,Matches,f61246d8
+206,Sebastián Ferreira,py PAR,FW,Houston Dynamo,24-139,1998,13.2,1,0,0,28,20,4,5,10,7,0,0,0,48,18,24,42.9,Matches,5439dba0
+207,Stuart Findlay,sct SCO,DF,Philadelphia,26-291,1995,1.0,0,0,0,0,0,0,0,4,0,0,0,0,7,3,3,50.0,Matches,edffe99a
+208,Ethan Finlay,us USA,FW,Austin FC,31-330,1990,7.8,0,0,0,10,5,4,16,6,4,0,0,0,37,5,22,18.5,Matches,c16a59af
+209,Oniel Fisher,jm JAM,DF,Minnesota Utd,30-222,1991,6.2,1,0,0,9,13,0,12,16,3,0,0,0,58,4,4,50.0,Matches,ed5fdca6
+210,Leon Flach,us USA,MF,Philadelphia,21-124,2001,15.4,1,0,0,16,9,2,11,29,28,0,0,0,116,19,16,54.3,Matches,39859fa1
+211,Ashley Fletcher,eng ENG,FW,NY Red Bulls,26-273,1995,2.8,2,0,0,8,3,0,1,3,1,0,1,0,19,10,13,43.5,Matches,eeb6551f
+212,Edison Flores,pe PER,MFFW,D.C. United,28-049,1994,9.2,1,0,0,18,11,0,15,5,9,0,0,0,80,9,16,36.0,Matches,ef2c82f8
+213,George Fochive,us USA,MF,Portland Timbers,30-100,1992,0.3,1,0,0,3,0,0,0,0,1,0,0,0,1,0,0,,Matches,f99000bb
+214,Nathan Fogaça,br BRA,FW,Portland Timbers,23-023,1999,4.2,1,0,0,7,5,0,2,2,0,0,0,0,23,12,23,34.3,Matches,aad135a3
+215,Andreu Fontàs,es ESP,DF,Sporting KC,32-230,1989,12.1,3,1,0,12,6,0,1,21,14,0,0,0,109,27,19,58.7,Matches,0f138d5a
+216,Kortne Ford,us USA,DF,Sporting KC,26-157,1996,8.8,4,0,0,14,6,1,1,20,6,0,1,0,65,25,17,59.5,Matches,552a7707
+217,Taxiarchis Fountas,gr GRE,FWMF,D.C. United,26-301,1995,7.2,0,0,0,12,14,1,15,7,1,0,0,0,39,4,11,26.7,Matches,2ce71308
+218,Franco Fragapane,ar ARG,FWMF,Minnesota Utd,29-146,1993,10.5,3,0,0,4,13,4,19,16,8,0,0,0,90,3,6,33.3,Matches,09538c47
+219,Alan Franco,ar ARG,DF,Atlanta Utd,25-264,1996,12.2,2,0,0,11,11,2,1,37,16,0,0,0,137,37,12,75.5,Matches,a548281c
+220,Alan Franco,ec ECU,MF,Charlotte FC,23-315,1998,8.7,2,0,0,12,11,0,13,8,5,1,0,0,61,11,10,52.4,Matches,c76b161b
+221,Kobe Franklin,ca CAN,DF,Toronto FC,19-053,2003,0.2,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0.0,Matches,407325c4
+222,Stefan Frei,ch SUI,GK,Seattle,36-073,1986,13.0,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,,Matches,1d0a0f3e
+223,Christian Fuchs,at AUT,DF,Charlotte FC,36-086,1986,12.7,2,0,0,23,1,1,16,45,16,0,0,0,125,34,17,66.7,Matches,a67a09fb
+224,Ruben Gabrielsen,no NOR,DF,Austin FC,30-114,1992,14.9,2,0,0,9,8,0,0,27,8,0,0,0,127,37,26,58.7,Matches,9e64fc85
+225,Ray Gaddis,us USA,DF,FC Cincinnati,32-170,1990,7.1,1,0,0,3,5,0,5,9,7,0,0,0,46,2,6,25.0,Matches,8348b24d
+226,McKinze Gaines,us USA,MFFW,Charlotte FC,24-122,1998,5.2,0,0,0,3,4,1,26,2,2,0,0,0,31,2,12,14.3,Matches,8ef72983
+227,Jon Gallagher,ie IRL,DF,Austin FC,26-129,1996,8.4,2,0,0,9,15,0,22,21,9,0,0,0,95,13,6,68.4,Matches,9d5afdfb
+228,Pedro Gallese,pe PER,GK,Orlando City,32-129,1990,16.0,3,0,0,1,1,0,0,0,1,0,0,0,53,0,0,,Matches,b76e1394
+229,Christopher Garcia,us USA,MFFW,Real Salt Lake,19-170,2003,0.0,0,0,0,1,1,0,1,0,0,0,0,0,4,0,0,,Matches,f6390a6b
+230,Chase Gasper,us USA,DF,LA Galaxy,26-158,1996,1.9,1,0,0,2,1,0,3,2,1,0,0,0,18,3,2,60.0,Matches,7371ec36
+231,Ryan Gauld,sct SCO,MF,Vancouver,26-198,1995,9.6,0,0,0,14,19,2,16,13,7,1,0,0,72,4,9,30.8,Matches,862e93c2
+232,Dániel Gazdag,hu HUN,MF,Philadelphia,26-122,1996,16.5,3,0,0,22,20,3,11,10,16,0,0,0,83,8,21,27.6,Matches,527d0e31
+233,Kieran Gibbs,eng ENG,DF,Inter Miami,32-279,1989,2.1,0,0,0,3,0,0,3,9,3,0,0,0,11,5,1,83.3,Matches,46ee5234
+234,Carles Gil,es ESP,MF,New England,29-222,1992,16.3,1,0,0,5,60,0,72,14,7,1,0,0,128,1,11,8.3,Matches,11c30a46
+235,José Antonio Martínez Gil,es ESP,DF,FC Dallas,29-140,1993,13.5,3,0,0,12,6,0,0,18,11,0,1,0,128,28,21,57.1,Matches,8e049cbd
+236,Gastón Giménez,py PAR,MF,Chicago Fire,30-340,1991,14.8,4,0,0,25,22,0,7,36,27,0,0,0,167,13,8,61.9,Matches,ab66cc31
+237,Francisco Ginella,uy URU,MF,Los Angeles FC,23-162,1999,3.9,1,0,0,11,2,0,2,4,8,0,1,0,33,4,2,66.7,Matches,5a28a782
+238,Justen Glad,us USA,DF,Real Salt Lake,25-124,1997,12.7,2,0,0,11,4,0,0,21,11,0,0,0,103,35,21,62.5,Matches,5b768b0f
+239,Jakob Glesnes,no NOR,DF,Philadelphia,28-099,1994,17.0,1,0,0,11,6,0,5,34,9,0,0,0,137,33,16,67.3,Matches,ac65aef3
+240,Chris Gloster,us USA,DF,NYCFC,21-339,2000,5.3,0,0,0,6,2,1,24,10,3,0,0,0,41,12,6,66.7,Matches,01cd3c12
+241,Marcus Godinho,ca CAN,DF,Vancouver,25-004,1997,6.1,1,0,0,6,11,0,13,15,5,0,0,0,36,6,4,60.0,Matches,27854bf6
+242,Aníbal Godoy,pa PAN,MF,Nashville,32-142,1990,7.5,4,0,0,17,14,0,1,8,11,0,0,0,72,9,6,60.0,Matches,2d496ca3
+243,Erik Godoy,ar ARG,DF,Vancouver,28-320,1993,4.3,1,0,0,3,2,0,0,13,5,0,0,0,35,8,2,80.0,Matches,e8b80334
+244,Eulânio Ângelo Chipela Gomes,gw GNB,DF,FC Dallas,28-046,1994,6.7,1,0,0,11,8,0,11,8,8,0,0,0,61,9,12,42.9,Matches,d9b9b71a
+245,Yeimar Gómez Andrade,co COL,DF,Seattle,30-002,1992,7.9,2,0,0,8,2,0,0,42,10,0,0,0,71,20,16,55.6,Matches,e43c8d72
+246,Omar Gonzalez,us USA,DF,New England,33-264,1988,7.0,1,0,0,3,4,0,0,17,4,0,0,0,61,27,15,64.3,Matches,0d2fe665
+247,Samuel Grandsir,fr FRA,FWMF,LA Galaxy,25-322,1996,8.3,1,0,0,13,8,5,32,3,6,0,0,0,45,4,10,28.6,Matches,d2448564
+248,Tayvon Gray,us USA,DF,NYCFC,19-317,2002,8.3,1,0,0,6,6,0,15,11,13,0,0,0,77,16,9,64.0,Matches,c839e1b2
+249,Gregore,br BRA,MF,Inter Miami,28-122,1994,14.0,8,0,0,35,14,0,1,30,44,0,0,0,147,28,14,66.7,Matches,49815f34
+250,Ján Greguš,sk SVK,MF,San Jose,31-154,1991,12.5,0,0,0,13,16,1,12,11,14,0,1,0,112,15,13,53.6,Matches,7d974435
+251,Julian Gressel,de GER,DF,D.C. United,28-198,1993,13.3,2,0,0,11,8,1,65,25,9,0,0,0,114,7,18,28.0,Matches,acd47bc0
+252,Sami Guediri,us USA,DF,D.C. United,24-318,1997,0.5,0,0,0,1,0,0,2,2,2,0,0,0,7,0,0,,Matches,e3dc71a7
+253,Brian Gutiérrez,us USA,FWMF,Chicago Fire,19-015,2003,7.7,2,1,1,9,16,2,8,6,7,0,0,0,54,5,13,27.8,Matches,d88f31db
+254,Cristián Gutiérrez,cl CHI,DF,Vancouver,25-134,1997,6.8,1,0,0,3,4,0,13,18,4,0,0,0,48,12,4,75.0,Matches,6e56a4f2
+255,Diego Gutierrez,us USA,FW,Portland Timbers,23-178,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches,4903a306
+256,Andrew Gutman,us USA,DF,Atlanta Utd,25-273,1996,11.1,3,0,0,19,23,5,27,21,20,0,0,0,82,14,15,48.3,Matches,b7a23251
+257,Brad Guzan,us USA,GK,Atlanta Utd,37-296,1984,6.8,0,0,0,0,1,0,0,0,0,0,0,0,27,0,0,,Matches,d899e3bf
+258,Justin Haak,us USA,MF,NYCFC,20-293,2001,0.7,1,0,0,1,0,0,0,2,3,0,0,0,4,1,3,25.0,Matches,c644e140
+259,Luke Haakenson,us USA,MF,Nashville,24-295,1997,3.6,3,0,0,11,7,0,6,0,6,0,0,0,14,0,10,0.0,Matches,77d28e45
+260,Teenage Hadebe,zw ZIM,DF,Houston Dynamo,26-288,1995,11.8,9,1,1,11,9,0,1,30,7,0,0,0,84,38,11,77.6,Matches,582952f2
+261,Nick Hagglund,us USA,DF,FC Cincinnati,29-291,1992,14.3,3,1,1,16,7,0,7,36,14,0,1,0,147,56,23,70.9,Matches,39632554
+262,Marlon Hairston,us USA,DF,Columbus Crew,28-101,1994,0.8,0,0,0,0,1,0,0,1,1,0,0,0,5,2,0,100.0,Matches,1d531c57
+263,Siad Haji,so SOM,DFFW,San Jose,22-213,1999,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches,9212f1cb
+264,Michael Halliday,us USA,MFDF,Orlando City,19-161,2003,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Matches,6ad5f50e
+265,Ahmed Hamdi,eg EGY,MFFW,CF Montréal,24-142,1998,3.6,2,0,0,6,3,0,0,0,3,0,0,0,37,5,2,71.4,Matches,fc7c8d3d
+266,Bill Hamid,us USA,GK,D.C. United,31-219,1990,9.5,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,,Matches,012fc030
+267,Niko Hansen,dk DEN,FW,Minnesota Utd,27-291,1994,0.3,0,0,0,0,1,0,2,0,0,0,0,0,2,1,0,100.0,Matches,9bebd450
+268,Cameron Harper,us USA,DFFW,NY Red Bulls,20-225,2001,3.1,2,0,0,4,5,0,10,3,1,0,0,0,24,3,7,30.0,Matches,4a78c769
+269,Nathan Harriel,us USA,DF,Philadelphia,21-070,2001,14.7,2,0,0,27,21,0,10,45,26,0,0,0,175,40,24,62.5,Matches,b3edbeff
+270,Calvin Harris,eng ENG,FW,FC Cincinnati,22-104,2000,1.8,1,0,0,3,8,0,1,0,1,0,0,0,6,0,4,0.0,Matches,07b0aeef
+271,Thomas Hasal,ca CAN,GK,Vancouver,22-358,1999,8.8,0,0,0,0,3,0,0,0,0,0,0,0,29,0,0,,Matches,86bac87b
+272,Jacori Hayes,us USA,MFFW,Minnesota Utd,27-003,1995,0.3,1,0,0,2,0,0,0,0,3,0,0,0,2,1,1,50.0,Matches,d2173b7b
+273,Héber,br BRA,FW,NYCFC,30-326,1991,4.2,0,0,0,4,1,4,3,2,1,0,0,0,25,7,15,31.8,Matches,d552c4a1
+274,Matt Hedges,us USA,DF,FC Dallas,32-092,1990,13.4,0,0,0,2,1,2,1,21,9,0,0,0,130,33,22,60.0,Matches,5e2a4d0e
+275,Chris Hegardt,us USA,FWMF,Charlotte FC,20-177,2002,0.2,1,0,0,1,2,0,3,0,0,0,0,0,2,0,1,0.0,Matches,99a6142d
+276,Doneil Henry,ca CAN,DF,Los Angeles FC,29-073,1993,1.5,3,0,0,3,0,0,0,2,0,0,0,0,15,4,1,80.0,Matches,22636117
+277,Fabian Herbers,de GER,FWMF,Chicago Fire,28-319,1993,6.7,3,0,0,9,13,3,14,4,11,0,0,0,50,16,8,66.7,Matches,5cbf5ccd
+278,Felipe Hernandez,us USA,MF,Sporting KC,24-024,1998,11.8,2,0,0,18,25,1,10,22,10,0,0,0,64,7,15,31.8,Matches,31a4d0b8
+279,Javier Hernández,mx MEX,FW,LA Galaxy,34-031,1988,14.5,3,0,0,16,27,6,15,9,5,0,0,0,31,16,16,50.0,Matches,189cee7b
+280,Ronald Hernández,ve VEN,DF,Atlanta Utd,24-284,1997,4.1,1,0,0,3,5,0,6,15,5,0,0,0,33,2,7,22.2,Matches,de907bab
+281,Aaron Herrera,us USA,DF,Real Salt Lake,25-026,1997,9.5,4,1,1,18,4,1,37,28,11,0,0,0,65,11,9,55.0,Matches,d86e3070
+282,Gonzalo Higuaín,ar ARG,FW,Inter Miami,34-204,1987,5.9,2,0,0,5,7,7,6,0,3,0,0,0,18,2,7,22.2,Matches,8a08491a
+283,Brendan Hines-Ike,us USA,DF,D.C. United,27-214,1994,13.6,5,0,0,18,22,0,6,24,19,0,1,0,121,28,19,59.6,Matches,b807c1dc
+284,Bongokuhle Hlongwane,za RSA,FWMF,Minnesota Utd,22-012,2000,7.2,0,0,0,12,13,2,8,12,10,0,0,0,58,6,17,26.1,Matches,de9952b5
+285,Danny Hoesen,nl NED,FW,Austin FC,31-168,1991,1.5,0,0,0,1,1,1,0,0,2,0,0,0,4,1,11,8.3,Matches,5ef1939b
+286,Ryan Hollingshead,us USA,DF,Los Angeles FC,31-077,1991,10.2,2,0,0,16,15,0,9,23,13,1,0,0,96,31,17,64.6,Matches,28b58797
+287,Erik Holt,us USA,DF,Real Salt Lake,25-299,1996,4.4,1,0,0,4,1,0,1,9,5,0,0,0,45,7,7,50.0,Matches,3677d047
+288,Jackson Hopkins,us USA,MFFW,D.C. United,18-001,2004,1.9,1,0,0,2,2,1,2,0,0,0,0,0,11,0,3,0.0,Matches,8344adf5
+289,Adrien Hunou,fr FRA,FW,Minnesota Utd,28-164,1994,1.4,0,0,0,4,2,0,0,0,1,0,0,0,4,6,1,85.7,Matches,d14229f3
+290,Erik Hurtado,us USA,FW,Columbus Crew,31-229,1990,2.2,1,0,0,5,5,0,0,1,0,0,0,0,8,4,20,16.7,Matches,b11e6f2b
+291,Emerson Hyndman,us USA,MF,Atlanta Utd,26-084,1996,3.2,0,0,0,5,2,0,3,7,4,0,0,0,20,2,4,33.3,Matches,3be1a627
+292,Franco Ibarra,ar ARG,MF,Atlanta Utd,21-065,2001,7.6,5,0,0,17,17,1,1,15,21,0,0,0,57,13,10,56.5,Matches,db6540c5
+293,Sebastien Ibeagha,us USA,DF,Los Angeles FC,30-162,1992,8.7,3,0,0,7,5,0,0,9,7,0,1,0,81,25,13,65.8,Matches,41ba8175
+294,Sunusi Ibrahim,ng NGA,FWMF,CF Montréal,19-274,2002,2.2,0,0,0,0,1,0,8,1,1,0,0,0,10,1,3,25.0,Matches,796994e5
+295,James Igbekeme,ng NGA,FWMF,Columbus Crew,26-363,1995,8.1,2,0,0,10,15,0,9,16,11,0,0,0,52,2,17,10.5,Matches,c9ce0fc8
+296,Tega Ikoba,us USA,FW,Portland Timbers,18-322,2003,0.3,0,0,0,0,1,0,0,2,0,0,0,0,1,2,1,66.7,Matches,35d550f2
+297,Arnór Ingvi Traustason,is ISL,FWMF,New England,29-063,1993,3.7,1,0,0,5,3,0,7,1,3,0,0,0,21,7,6,53.8,Matches,7d036b4a
+298,Nicolas Isimat-Mirin,fr FRA,DF,Sporting KC,30-229,1991,10.8,2,0,0,16,4,1,0,18,20,0,1,0,84,25,18,58.1,Matches,14e8e9d7
+299,Aljaž Ivačič,si SVN,GK,Portland Timbers,28-185,1993,17.0,1,0,0,0,1,0,0,0,0,0,0,0,65,0,0,,Matches,4d6e50d8
+300,Stanislav Ivanov,bg BUL,FWMF,Chicago Fire,23-077,1999,8.5,0,0,0,12,14,4,15,7,5,0,0,0,60,2,15,11.8,Matches,0cafba94
+301,Robin Jansson,se SWE,DF,Orlando City,30-229,1991,13.9,10,1,1,10,6,0,0,16,8,0,0,0,94,19,13,59.4,Matches,8ca5c176
+302,Franco Jara,ar ARG,FW,FC Dallas,33-352,1988,4.2,0,0,0,15,7,4,5,1,1,0,0,0,20,8,23,25.8,Matches,413cce14
+303,Andres Jasson,us USA,DFFW,NYCFC,20-166,2002,2.7,1,0,0,5,8,0,6,3,7,0,0,0,23,1,1,50.0,Matches,31d049b2
+304,Cal Jennings,us USA,FW,Los Angeles FC,25-046,1997,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,33.3,Matches,44f6672a
+305,Hector Jiménez,us USA,DF,Austin FC,33-241,1988,4.9,2,0,0,7,6,0,13,11,9,0,0,0,55,5,3,62.5,Matches,2dc1e90e
+306,Jesús Jiménez,es ESP,FW,Toronto FC,28-239,1993,15.7,2,0,0,20,14,7,1,5,6,0,0,0,45,21,59,26.3,Matches,1e161d47
+307,Sean Johnson,us USA,GK,NYCFC,33-032,1989,16.0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,0,,Matches,c164335e
+308,Alistair Johnston,ca CAN,DF,CF Montréal,23-267,1998,15.2,2,0,0,24,14,0,29,27,15,0,0,1,98,16,18,47.1,Matches,4fb17e20
+309,DeJuan Jones,us USA,DF,New England,25-008,1997,15.8,3,0,0,13,19,0,48,31,19,0,0,0,139,10,22,31.3,Matches,10d1139c
+310,Derrick Jones,us USA,MF,Charlotte FC,25-121,1997,1.8,0,0,0,2,8,0,0,4,4,0,0,0,18,1,0,100.0,Matches,93c92d6c
+311,Joevin Jones,tt TRI,DFFW,Inter Miami,30-333,1991,0.5,0,0,0,0,2,0,0,1,0,0,0,0,7,0,2,0.0,Matches,fc23d956
+312,Jony,ar ARG,FW,Real Salt Lake,28-119,1994,1.6,0,0,0,4,4,1,3,2,0,0,0,0,14,1,2,33.3,Matches,60665492
+313,Dejan Joveljić,rs SRB,FWMF,LA Galaxy,22-329,1999,3.5,3,0,0,5,5,3,1,0,3,0,0,0,17,8,6,57.1,Matches,95a24690
+314,Kamil Jóźwiak,pl POL,MFFW,Charlotte FC,24-071,1998,2.9,2,0,0,4,6,0,12,0,3,0,0,0,13,3,7,30.0,Matches,bd4e3824
+315,Judson,br BRA,MF,San Jose,29-038,1993,1.7,2,0,0,8,2,0,0,2,8,0,0,0,14,2,1,66.7,Matches,e1535f82
+316,Anderson Julio,ec ECU,FW,Real Salt Lake,26-032,1996,0.7,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,,Matches,f907a6a8
+317,Florian Jungwirth,de GER,DFMF,Vancouver,33-156,1989,7.5,2,0,0,10,6,0,0,16,6,0,0,0,52,14,9,60.9,Matches,f179c207
+318,Sam Junqua,us USA,DF,Houston Dynamo,25-235,1996,1.7,0,0,0,1,0,0,0,2,0,0,0,0,13,6,1,85.7,Matches,91981d97
+319,Chris Kablan,ch SUI,MF,Real Salt Lake,27-214,1994,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,100.0,Matches,04159652
+320,Kristijan Kahlina,hr CRO,GK,Charlotte FC,29-343,1992,17.0,1,0,0,1,3,0,0,0,0,0,1,0,70,0,0,,Matches,53e360bb
+321,Brent Kallman,us USA,DF,Minnesota Utd,31-271,1990,6.5,1,0,0,7,8,0,0,16,5,0,0,1,58,13,10,56.5,Matches,2b24702b
+322,Kei Kamara,sl SLE,FW,CF Montréal,37-304,1984,9.5,0,0,0,13,11,5,9,4,7,0,0,0,40,48,25,65.8,Matches,6e3f3809
+323,Ola Kamara,no NOR,FW,D.C. United,32-260,1989,8.2,2,1,1,10,12,9,6,5,2,0,0,0,28,19,32,37.3,Matches,e134351a
+324,Alec Kann,us USA,GK,FC Cincinnati,31-328,1990,7.0,2,0,0,0,0,0,0,0,0,0,0,1,34,0,0,,Matches,4a8af93c
+325,Johan Kappelhof,nl NED,DF,Real Salt Lake,31-331,1990,1.0,0,0,0,1,1,0,0,2,4,0,0,0,6,3,1,75.0,Matches,465015a5
+326,Wilfrid Kaptoum,cm CMR,MF,New England,25-360,1996,5.3,3,0,0,12,5,0,0,9,5,0,0,0,42,3,3,50.0,Matches,d717630e
+327,Ercan Kara,at AUT,FW,Orlando City,26-180,1996,11.2,1,0,0,19,19,8,2,1,8,0,0,0,26,35,34,50.7,Matches,540c9a17
+328,Mark-Anthony Kaye,ca CAN,MF,Colorado Rapids,27-212,1994,13.2,2,0,0,24,26,1,6,32,25,0,0,0,119,13,9,59.1,Matches,36a38acd
+329,Kipp Keller,us USA,DF,Austin FC,21-353,2000,2.7,2,0,0,7,2,0,1,9,4,0,0,0,23,5,6,45.5,Matches,fe5fea9f
+330,Jon Kempin,us USA,GK,D.C. United,29-085,1993,2.0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,,Matches,063adc5e
+331,Deandre Kerr,ca CAN,MFFW,Toronto FC,19-225,2002,8.1,1,0,0,8,24,0,5,12,5,0,0,0,31,17,30,36.2,Matches,a3e85f7b
+332,Henry Kessler,us USA,DF,New England,24-007,1998,6.0,3,0,0,4,9,0,1,15,4,0,0,0,82,28,10,73.7,Matches,23c75879
+333,Benjamin Kikanovic,us USA,FWMF,San Jose,22-177,2000,4.3,1,0,0,7,13,3,8,2,1,0,0,0,32,8,12,40.0,Matches,fe11d61b
+334,Patryk Klimala,pl POL,FW,NY Red Bulls,23-331,1998,11.0,4,0,0,27,20,9,12,0,8,1,0,0,36,22,66,25.0,Matches,0bf3c11c
+335,Sacha Kljestan,us USA,MF,LA Galaxy,36-296,1985,2.7,0,0,0,4,3,0,4,2,5,0,0,0,23,13,3,81.3,Matches,73682895
+336,Brad Knighton,us USA,GK,New England,37-146,1985,4.0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,0,,Matches,9903a3cb
+337,Žan Kolmanič,si SVN,DF,Austin FC,22-121,2000,8.9,1,0,0,10,5,0,25,16,5,0,1,0,59,3,10,23.1,Matches,4501fd21
+338,Ismaël Koné,ca CAN,MF,CF Montréal,20-026,2002,9.0,5,0,0,15,16,0,1,14,7,0,0,0,57,3,3,50.0,Matches,e0220b70
+339,Damir Kreilach,hr CRO,MFFW,Real Salt Lake,33-077,1989,3.3,1,0,0,3,6,5,1,2,2,0,0,0,16,22,10,68.8,Matches,068be155
+340,Theodore Ku-Dipietro,us USA,MFFW,D.C. United,20-155,2002,0.3,0,0,0,1,1,0,0,0,0,0,0,0,1,1,2,33.3,Matches,ef7c10e0
+341,Yuya Kubo,jp JPN,MF,FC Cincinnati,28-190,1993,7.8,3,0,0,21,7,0,4,22,22,0,0,0,64,7,8,46.7,Matches,cba16a46
+342,Jojea Kwizera,cg CGO,DFMF,CF Montréal,23-182,1999,0.2,0,0,0,0,0,0,3,0,0,0,0,0,6,0,0,,Matches,cc61360d
+343,Lassi Lappalainen,fi FIN,DF,CF Montréal,23-312,1998,12.2,1,0,0,8,12,0,22,15,14,0,0,0,69,13,6,68.4,Matches,bcb2282d
+344,Jesús David Murillo Largacha,co COL,DF,Los Angeles FC,28-134,1994,12.7,5,0,0,21,13,0,0,40,21,0,0,0,106,35,18,66.0,Matches,68d48a71
+345,Ariel Lassiter,cr CRC,FWMF,Inter Miami,27-278,1994,11.3,2,0,0,8,18,4,35,15,1,0,0,0,48,0,8,0.0,Matches,bd7b916c
+346,Vuk Latinovich,us USA,DF,NYCFC,24-291,1997,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,100.0,Matches,5c0e047a
+347,Kemar Lawrence,jm JAM,DF,Minnesota Utd,29-288,1992,12.0,1,0,0,4,11,0,30,26,7,0,0,0,94,27,12,69.2,Matches,80be3efe
+348,Randall Leal,cr CRC,MFFW,Nashville,25-169,1997,9.9,2,0,0,23,25,2,23,9,11,0,0,0,87,9,11,45.0,Matches,874a5031
+349,Kelvin Leerdam,sr SUR,DFMF,LA Galaxy,32-008,1990,4.3,1,0,0,7,3,0,1,8,7,0,0,0,31,7,6,53.8,Matches,d8b47705
+350,Brooks Lennon,us USA,DFFW,Atlanta Utd,24-283,1997,13.0,1,0,0,8,7,7,67,17,10,1,0,0,92,16,19,45.7,Matches,ec80ba72
+351,Jonathan Lewis,us USA,FW,Colorado Rapids,25-028,1997,12.1,2,0,0,13,28,8,13,8,7,1,0,0,49,2,13,13.3,Matches,2501eb59
+352,Danny Leyva,us USA,MF,Seattle,19-058,2003,1.2,0,0,0,3,4,1,3,1,2,0,0,0,15,2,2,50.0,Matches,ecc3a9c9
+353,Azaad Liadi,us USA,MF,D.C. United,24-049,1998,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,ba702426
+354,Nick Lima,us USA,DF,Austin FC,27-227,1994,11.9,1,0,0,13,7,0,21,28,8,0,1,0,86,11,13,45.8,Matches,959686eb
+355,Jaylin Lindsey,us USA,DF,Charlotte FC,22-097,2000,13.7,2,0,0,11,6,1,26,35,14,0,0,0,102,13,10,56.5,Matches,83cb6e59
+356,Sebastian Lletget,us USA,MFFW,New England,29-302,1992,11.7,1,0,0,15,8,3,16,7,16,0,0,0,62,12,14,46.2,Matches,73019c31
+357,Robin Lod,fi FIN,FW,Minnesota Utd,29-076,1993,15.3,4,0,0,22,12,1,5,16,13,0,0,0,98,20,28,41.7,Matches,33c69aa0
+358,Nicolás Lodeiro,uy URU,MF,Seattle,33-103,1989,8.8,1,0,0,10,24,1,21,11,4,0,0,0,68,11,8,57.9,Matches,fe81d0d1
+359,Jasper Löeffelsend,us USA,MF,Real Salt Lake,24-266,1997,7.4,3,0,0,18,15,1,11,13,9,0,0,0,68,5,13,27.8,Matches,ce037639
+360,Aaron Long,us USA,DF,NY Red Bulls,29-263,1992,13.8,3,0,0,14,10,2,1,28,17,0,0,0,171,53,29,64.6,Matches,46b89640
+361,Marcos López,pe PER,DF,San Jose,22-224,1999,10.4,3,0,0,12,21,0,23,29,14,0,0,0,69,15,14,51.7,Matches,9b3ab988
+362,Marvin Loría,cr CRC,FWMF,Portland Timbers,25-069,1997,4.8,0,0,0,3,12,0,13,10,3,1,0,0,31,3,16,15.8,Matches,71380d87
+363,Daniel Lovitz,us USA,DF,Nashville,30-309,1991,14.0,4,0,0,13,7,2,29,25,7,0,0,0,102,19,7,73.1,Matches,db97d838
+364,Damion Lowe,jm JAM,DF,Inter Miami,29-058,1993,13.7,6,1,1,22,11,1,0,50,23,0,2,0,103,25,12,67.6,Matches,b6e2e54c
+365,Everton Luiz,br BRA,MF,Real Salt Lake,34-039,1988,4.8,3,0,0,9,5,0,1,10,2,0,0,0,34,1,3,25.0,Matches,3799e138
+366,Diego Luna,us USA,MF,Real Salt Lake,18-298,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,e67f8af0
+367,Adam Lundqvist,se SWE,DF,Houston Dynamo,28-104,1994,15.4,2,1,0,17,11,0,26,35,24,0,0,0,92,14,16,46.7,Matches,91769a24
+368,Luquinhas,br BRA,MFFW,NY Red Bulls,25-277,1996,9.9,1,0,0,9,29,1,9,13,7,1,0,0,71,3,13,18.8,Matches,85937928
+369,Jack Lynn,us USA,MF,Orlando City,22-171,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,c81d718e
+370,Larrys Mabiala,cd COD,DF,Portland Timbers,34-267,1987,7.3,5,0,0,12,5,0,0,14,4,0,0,0,68,18,6,75.0,Matches,5bdec47f
+371,Aimé Mabika,zm ZAM,DF,Inter Miami,23-320,1998,4.4,1,0,0,4,3,0,1,5,5,0,0,0,19,10,4,71.4,Matches,3a37d349
+372,Maciel,br BRA,MF,New England,22-165,2000,2.6,0,0,0,5,1,0,1,4,3,0,0,0,32,5,4,55.6,Matches,a39d51e0
+373,Zac MacMath,us USA,GK,Real Salt Lake,30-329,1991,17.0,1,0,0,0,3,0,0,1,0,0,0,0,102,0,0,,Matches,06caac45
+374,Lukas MacNaughton,us USA,DF,Toronto FC,27-116,1995,8.3,2,0,0,5,2,0,0,16,8,0,0,0,75,17,17,50.0,Matches,b6111d16
+375,Talles Magno,br BRA,FW,NYCFC,20-006,2002,13.9,1,0,0,18,41,2,16,15,13,0,0,0,94,10,27,27.0,Matches,64c98878
+376,Jack Maher,us USA,DF,Nashville,22-247,1999,13.0,1,0,0,10,3,0,1,20,5,0,1,0,103,31,13,70.5,Matches,0c6f2fa6
+377,Christian Makoun,ve VEN,DF,Charlotte FC,22-119,2000,8.9,1,0,0,9,3,0,0,13,5,0,1,0,80,10,9,52.6,Matches,7efffe65
+378,Machop Malual,ss SSD,DF,Atlanta Utd,23-230,1998,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,1701b012
+379,J.T. Marcinkowski,us USA,GK,San Jose,25-054,1997,16.0,0,0,0,0,1,0,0,0,0,0,0,0,85,0,0,,Matches,977791f4
+380,Paul Marie,fr FRA,DF,San Jose,27-100,1995,12.9,4,0,0,19,17,0,14,35,16,1,0,0,101,7,10,41.2,Matches,da0bb55a
+381,Anthony Markanich,us USA,DF,Colorado Rapids,22-188,1999,1.6,0,0,0,2,2,0,5,0,3,0,0,0,14,4,3,57.1,Matches,565fde4a
+382,Nick Markanich,us USA,FWMF,FC Cincinnati,22-188,1999,1.2,0,0,0,0,5,0,0,4,6,0,0,0,12,7,7,50.0,Matches,65988c73
+383,George Marks,us USA,GK,Charlotte FC,22-234,1999,1.0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,,Matches,e75f9dba
+384,Jahkeele Marshall-Rutty,ca CAN,DF,Toronto FC,18-016,2004,3.0,0,0,0,1,7,0,3,10,6,0,0,0,28,5,3,62.5,Matches,b9459f85
+385,Nick Marsman,nl NED,GK,Inter Miami,31-274,1990,5.0,2,0,0,1,1,0,0,0,0,0,1,0,20,0,0,,Matches,f352799f
+386,Josef Martínez,ve VEN,FW,Atlanta Utd,29-044,1993,7.3,0,0,0,2,10,6,0,2,1,0,0,0,19,6,15,28.6,Matches,e73f0aa1
+387,Luís Martins,pt POR,DF,Vancouver,30-022,1992,1.4,0,0,0,1,1,0,1,0,1,1,0,0,3,3,0,100.0,Matches,56b7c09b
+388,Thiago Martins,br BRA,DF,NYCFC,27-107,1995,10.9,3,0,0,9,1,0,0,19,5,0,0,1,121,28,10,73.7,Matches,4d6ec370
+389,Alexandru Mățan,ro ROU,FWMF,Columbus Crew,22-307,1999,0.4,0,0,0,1,1,0,1,1,0,0,0,0,2,0,0,,Matches,3bd3bcc4
+390,Rónald Matarrita,cr CRC,DF,FC Cincinnati,27-358,1994,1.9,1,0,0,2,0,0,4,4,1,0,1,0,11,0,1,0.0,Matches,491862dd
+391,Jimmy Maurer,us USA,GK,FC Dallas,33-261,1988,2.0,0,0,0,0,1,0,0,0,0,0,0,0,6,0,0,,Matches,ca1c6f3d
+392,José Mauri,it ITA,MF,Sporting KC,26-047,1996,0.3,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,,Matches,644faf10
+393,Chris Mavinga,cd COD,DF,Toronto FC,31-037,1991,4.8,0,0,0,3,7,0,1,12,12,0,0,0,56,16,6,72.7,Matches,fda36cfb
+394,Max,br BRA,FWMF,Colorado Rapids,21-051,2001,3.5,2,0,0,10,5,0,4,5,1,0,0,0,20,2,8,20.0,Matches,67c3efa4
+395,Olivier Mbaizo,cm CMR,DF,Philadelphia,24-321,1997,2.4,0,0,0,1,2,0,14,9,2,0,0,0,14,3,2,60.0,Matches,f6315619
+396,John McCarthy,us USA,GK,Los Angeles FC,29-363,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Matches,249362e9
+397,Dax McCarty,us USA,MF,Nashville,35-063,1987,8.5,1,1,0,8,17,0,3,15,12,0,0,0,101,11,10,52.4,Matches,b74e58c0
+398,Aiden McFadden,us USA,DF,Atlanta Utd,23-277,1998,1.9,0,0,0,2,2,0,4,2,1,0,0,0,15,2,6,25.0,Matches,eed1b8f6
+399,Jack McGlynn,us USA,MF,Philadelphia,18-360,2003,1.6,2,0,0,3,2,0,3,3,4,0,0,0,28,3,3,50.0,Matches,e2b8c25c
+400,Zac McGraw,us USA,DF,Portland Timbers,25-024,1997,5.6,0,0,0,3,3,0,1,19,11,0,0,0,53,21,6,77.8,Matches,83129dc7
+401,Thomas McNamara,us USA,MF,New England,31-146,1991,13.4,5,0,0,23,11,0,4,15,20,0,0,0,91,9,12,42.9,Matches,ab36595d
+402,Quinn McNeill,us USA,MF,Charlotte FC,23-306,1998,0.3,0,0,0,1,1,0,0,0,0,0,0,0,3,0,0,,Matches,2a9b1a97
+403,Christopher McVey,se SWE,DF,Inter Miami,25-081,1997,16.0,2,0,0,28,6,1,12,32,25,0,0,0,113,18,14,56.3,Matches,149d8165
+404,Ryan Meara,us USA,GK,NY Red Bulls,31-229,1990,1.0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,Matches,18f0723b
+405,Jimmy Medranda,co COL,DFMF,Seattle,28-145,1994,3.0,0,0,0,4,0,1,8,9,7,0,0,0,32,2,4,33.3,Matches,6f7ac622
+406,Haris Medunjanin,ba BIH,MF,FC Cincinnati,37-116,1985,4.3,1,0,0,8,2,0,6,5,5,0,0,0,46,4,2,66.7,Matches,de5d5d41
+407,Tim Melia,us USA,GK,Sporting KC,36-048,1986,18.0,1,0,0,0,2,0,0,0,0,0,0,0,77,0,0,,Matches,cc741f50
+408,Jhegson Méndez,ec ECU,MF,Orlando City,25-067,1997,4.1,2,0,0,7,4,0,1,9,13,0,0,0,34,3,4,42.9,Matches,db0c5324
+409,Jonathan Mensah,gh GHA,DF,Columbus Crew,31-354,1990,15.0,3,0,0,12,3,0,2,43,4,0,0,0,169,42,34,55.3,Matches,8087e6cb
+410,Justin Meram,iq IRQ,MFFW,Real Salt Lake,33-210,1988,14.3,1,0,0,14,25,3,39,15,9,1,0,0,79,14,19,42.4,Matches,ae34c71d
+411,Romain Métanire,mg MAD,DF,Minnesota Utd,32-096,1990,0.3,0,0,0,0,0,0,1,1,0,0,0,0,3,1,0,100.0,Matches,0fb21da9
+412,Nicolás Mezquida,uy URU,MFFW,Colorado Rapids,30-162,1992,1.2,0,0,0,3,4,0,2,5,6,0,0,0,17,4,1,80.0,Matches,00b629e1
+413,Benji Michel,us USA,FW,Orlando City,24-252,1997,7.2,1,0,0,5,9,0,5,4,8,0,0,0,34,13,11,54.2,Matches,151ca25f
+414,Djordje Mihailovic,us USA,MFFW,CF Montréal,23-234,1998,11.9,3,0,0,16,24,1,16,14,12,0,0,0,52,3,15,16.7,Matches,83cf9719
+415,Matko Miljevic,us USA,MFFW,CF Montréal,21-054,2001,4.1,2,0,0,3,25,0,7,7,6,0,0,0,32,1,3,25.0,Matches,74b76abc
+416,Eric Miller,us USA,DF,Nashville,29-168,1993,8.8,2,0,0,12,5,0,9,15,4,0,0,0,66,10,10,50.0,Matches,c0593f5d
+417,Kamal Miller,ca CAN,DF,CF Montréal,25-047,1997,13.7,2,0,0,9,12,0,7,25,7,0,1,0,131,30,19,61.2,Matches,0646bd8a
+418,Tyler Miller,us USA,GK,Minnesota Utd,29-112,1993,2.0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,,Matches,7827a6b3
+419,Kevin Molino,tt TRI,FW,Columbus Crew,32-015,1990,0.2,0,0,0,0,1,0,0,1,0,0,0,0,2,0,1,0.0,Matches,371645ca
+420,Jamiro Monteiro,cv CPV,MF,San Jose,28-221,1993,13.7,0,1,0,20,35,0,13,10,22,0,0,0,83,1,6,14.3,Matches,d384bddd
+421,Fredy Montero,co COL,FWMF,Seattle,34-341,1987,7.3,0,0,0,10,20,2,9,7,9,2,0,0,25,7,16,30.4,Matches,bc5b5be5
+422,Kim Moonhwan,kr KOR,DF,Los Angeles FC,26-335,1995,0.9,1,0,0,0,0,0,1,4,1,0,0,0,8,0,1,0.0,Matches,6bce7dd8
+423,Drew Moor,us USA,DF,Colorado Rapids,38-168,1984,1.8,0,0,0,2,1,0,0,1,0,0,0,0,10,5,1,83.3,Matches,220cf869
+424,Felipe Mora,cl CHI,FW,Portland Timbers,28-334,1993,0.4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0.0,Matches,f4b0ea46
+425,Joseph Mora,cr CRC,DF,Charlotte FC,29-168,1993,12.6,1,0,0,9,7,1,16,26,28,0,0,0,102,14,21,40.0,Matches,2af71023
+426,Alfredo Morales,us USA,MFDF,NYCFC,32-051,1990,13.0,4,1,1,19,17,1,4,28,22,0,0,0,142,30,23,56.6,Matches,ff45add5
+427,Maximiliano Moralez,ar ARG,MF,NYCFC,35-125,1987,10.9,2,0,0,15,29,4,34,15,12,0,0,0,91,4,10,28.6,Matches,f99f37fc
+428,Steven Moreira,fr FRA,DF,Columbus Crew,27-323,1994,14.2,3,0,0,18,6,0,36,34,7,0,0,0,116,11,17,39.3,Matches,f10983ae
+429,Junior Moreno,ve VEN,MF,FC Cincinnati,28-347,1993,13.4,3,0,0,20,15,1,3,32,28,0,0,0,140,5,8,38.5,Matches,5dcb4ac4
+430,Marcelino Moreno,ar ARG,MFFW,Atlanta Utd,28-007,1994,12.3,3,0,0,7,55,2,28,14,7,0,0,0,79,1,17,5.6,Matches,058c938c
+431,Santiago Moreno,co COL,FWMF,Portland Timbers,22-072,2000,12.2,1,0,0,25,20,1,13,21,14,1,0,0,95,9,22,29.0,Matches,3261d0e4
+432,Lewis Morgan,sct SCO,FWDF,NY Red Bulls,25-275,1996,16.0,1,0,0,18,17,2,67,23,27,0,0,0,123,13,23,36.1,Matches,b675e328
+433,Aidan Morris,us USA,MF,Columbus Crew,20-228,2001,7.3,2,0,0,21,13,0,2,13,25,0,0,0,54,8,12,40.0,Matches,3778339c
+434,Jordan Morris,us USA,FW,Seattle,27-249,1994,10.8,2,0,0,6,5,6,17,13,5,0,0,0,48,20,19,51.3,Matches,bd298d0d
+435,Jean Mota,br BRA,MF,Inter Miami,28-260,1993,13.1,5,1,1,17,26,0,21,27,20,0,0,0,125,9,16,36.0,Matches,1ee0513b
+436,João Moutinho,pt POR,DF,Orlando City,24-171,1998,16.0,3,0,0,22,6,0,44,33,28,0,0,0,129,17,13,56.7,Matches,a0aee24e
+437,Chris Mueller,us USA,FWMF,Chicago Fire,25-307,1996,6.9,1,0,0,6,19,6,15,4,5,0,0,0,41,13,13,50.0,Matches,a5334099
+438,Hany Mukhtar,de GER,FWMF,Nashville,27-103,1995,16.0,2,0,0,13,38,11,28,7,4,1,0,0,72,9,32,22.0,Matches,87fe8526
+439,Jake Mulraney,ie IRL,FWDF,Atlanta Utd,26-088,1996,2.0,0,0,0,2,6,0,9,1,1,0,0,0,8,0,0,,Matches,0f04858e
+440,Jake Mulraney,ie IRL,FW,Orlando City,26-088,1996,3.5,1,0,0,3,14,4,5,1,3,0,0,0,19,6,3,66.7,Matches,0f04858e
+441,Eddie Munjoma,us USA,FWMF,FC Dallas,23-349,1998,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0,Matches,0e1f6ffa
+442,Ian Murphy,us USA,DF,FC Cincinnati,22-167,2000,8.7,0,0,0,4,2,1,1,17,1,0,0,0,79,14,14,50.0,Matches,c6d233e3
+443,Daniel Musovski,us USA,FWMF,Los Angeles FC,26-214,1995,4.5,2,0,0,14,10,1,1,3,4,0,0,0,26,13,14,48.1,Matches,925a2703
+444,Alex Muyl,us USA,DF,Nashville,26-275,1995,13.1,5,0,0,18,20,6,33,15,25,0,0,0,94,20,20,50.0,Matches,2c1025bf
+445,Darlington Nagbe,us USA,MF,Columbus Crew,31-348,1990,15.8,1,0,0,14,32,0,1,24,16,0,0,0,142,13,12,52.0,Matches,6219c704
+446,Andy Najar,hn HON,DF,D.C. United,29-108,1993,6.6,5,0,0,7,10,0,8,30,10,0,0,0,85,12,17,41.4,Matches,f8280175
+447,Federico Navarro,ar ARG,MF,Chicago Fire,22-115,2000,12.3,5,1,1,22,10,0,4,24,34,0,1,0,159,12,3,80.0,Matches,61c628be
+448,Miguel Navarro,ve VEN,DF,Chicago Fire,23-126,1999,12.0,6,0,0,21,23,0,24,43,14,0,2,0,108,15,5,75.0,Matches,3fbff39a
+449,Logan Ndenbe,be BEL,DF,Sporting KC,22-143,2000,14.1,2,0,0,20,22,1,36,23,9,0,0,0,129,9,15,37.5,Matches,f625e8a5
+450,Dylan Nealis,us USA,DF,NY Red Bulls,23-337,1998,10.5,7,1,1,26,12,2,17,35,27,0,0,0,105,37,19,66.1,Matches,24f4dd87
+451,Sean Nealis,us USA,DF,NY Red Bulls,25-170,1997,18.0,4,0,0,27,12,0,2,43,19,0,0,0,227,84,46,64.6,Matches,8c1b17b3
+452,Jayden Nelson,ca CAN,MFFW,Toronto FC,19-279,2002,11.0,4,0,0,18,13,0,13,20,12,0,0,0,76,10,19,34.5,Matches,92305a81
+453,John Nelson,us USA,DF,FC Cincinnati,23-356,1998,8.0,1,0,0,1,1,0,10,22,5,0,0,0,54,8,13,38.1,Matches,df8c4d49
+454,Michael Nelson,us USA,GK,Houston Dynamo,27-142,1995,1.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,,Matches,f4a12161
+455,Jake Nerwinski,us USA,DF,Vancouver,27-258,1994,10.5,2,1,1,8,8,0,4,17,7,0,0,0,79,15,8,65.2,Matches,2b5801d0
+456,Serge Ngoma,us USA,MFFW,NY Red Bulls,16-358,2005,0.5,0,0,0,4,1,1,1,2,2,0,0,0,4,0,2,0.0,Matches,de7a0fe6
+457,Jarosław Niezgoda,pl POL,FW,Portland Timbers,27-109,1995,11.6,0,0,0,4,6,3,5,5,4,0,0,0,48,10,35,22.2,Matches,60c659b6
+458,Chinonso Nnamdi Offor,ng NGA,FW,Chicago Fire,22-036,2000,2.9,1,0,0,10,2,2,1,0,2,0,0,0,16,11,9,55.0,Matches,dc590664
+459,Tsiki Ntsabeleng,za RSA,MF,FC Dallas,24-143,1998,4.9,2,0,0,13,11,0,2,9,10,0,0,0,48,4,5,44.4,Matches,bcbc53d5
+460,Obinna Nwobodo,ng NGA,MF,FC Cincinnati,25-215,1996,7.9,5,0,0,24,5,0,0,22,21,0,0,0,110,17,6,73.9,Matches,897c8066
+461,Moses Nyeman,us USA,MF,D.C. United,18-239,2003,1.6,0,1,0,0,6,0,0,2,1,0,0,0,20,2,2,50.0,Matches,09d33255
+462,Shane O'Neill,us USA,DF,Toronto FC,28-303,1993,12.0,3,0,0,15,12,0,2,39,10,0,0,0,119,29,14,67.4,Matches,a62a56b4
+463,Jáder Obrian,co COL,FW,FC Dallas,27-045,1995,8.8,3,0,0,17,11,7,13,8,6,0,0,0,50,5,22,18.5,Matches,1471b2a8
+464,Chris Odoi-Atsem,us USA,DF,D.C. United,27-035,1995,0.9,0,0,0,2,0,0,0,1,1,0,0,0,9,2,1,66.7,Matches,375ec69e
+465,Noble Okello,ca CAN,MF,Toronto FC,21-347,2000,1.8,0,0,0,0,3,0,0,5,3,0,0,0,18,7,3,70.0,Matches,6bc16162
+466,Wyatt Omsberg,us USA,DF,Chicago Fire,26-284,1995,14.0,2,0,0,14,10,0,1,39,8,0,0,0,123,39,20,66.1,Matches,cd44ba68
+467,Kwadwo Opoku,gh GHA,FWMF,Los Angeles FC,20-354,2001,10.8,0,0,0,10,16,6,13,7,16,0,0,0,55,6,27,18.2,Matches,226a288e
+468,Arquimides Ordonez,gt GUA,FWMF,FC Cincinnati,18-331,2003,0.5,0,0,0,3,0,0,1,0,2,0,0,0,6,1,3,25.0,Matches,8941d9b2
+469,Jaziel Orozco,us USA,DF,Real Salt Lake,18-030,2004,3.5,0,0,0,6,3,0,1,4,2,0,1,0,28,4,6,40.0,Matches,46af4656
+470,Christian Ortiz,ar ARG,MFFW,Charlotte FC,29-316,1992,7.1,4,0,0,20,13,2,11,6,5,0,0,0,42,7,13,35.0,Matches,bd8ddbd6
+471,Jonathan Osorio,ca CAN,MF,Toronto FC,30-020,1992,9.5,4,0,0,13,16,0,5,9,19,0,0,0,92,3,15,16.7,Matches,70106ff6
+472,Leonard Owusu,gh GHA,MF,Vancouver,25-029,1997,5.0,0,0,0,6,9,0,0,6,6,0,0,0,36,1,5,16.7,Matches,a06c6c8a
+473,Maarten Paes,nl NED,GK,FC Dallas,24-049,1998,15.0,1,0,0,0,1,0,0,0,0,0,0,0,61,0,0,,Matches,eb343262
+474,Diego Palacios,ec ECU,DF,Los Angeles FC,22-355,1999,13.7,4,0,0,27,24,0,45,35,21,0,0,1,153,11,17,39.3,Matches,6ec37f2e
+475,Elliot Panicco,us USA,GK,Nashville,25-226,1996,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches,e93972ac
+476,Cristhian Paredes,py PAR,MF,Portland Timbers,24-045,1998,13.8,5,0,0,21,20,0,4,23,19,1,0,0,147,17,17,50.0,Matches,0d8a2551
+477,Tim Parker,us USA,DF,Houston Dynamo,29-129,1993,11.8,2,0,0,9,2,0,0,13,5,0,0,0,72,16,7,69.6,Matches,4988a44d
+478,Keaton Parks,us USA,MF,NYCFC,24-330,1997,10.1,2,0,0,17,12,0,6,14,13,1,0,0,97,14,17,45.2,Matches,77986763
+479,Tyler Pasher,ca CAN,FW,Houston Dynamo,28-066,1994,6.2,0,0,0,3,6,1,14,3,2,0,0,0,32,2,7,22.2,Matches,3a7bec1b
+480,Alexandre Pato,br BRA,FW,Orlando City,32-303,1989,8.7,0,0,0,9,17,1,12,7,4,0,0,0,34,9,15,37.5,Matches,7dd83c7d
+481,João Paulo Mior,br BRA,MF,Seattle,31-116,1991,5.0,1,0,0,5,10,0,7,9,11,0,0,0,56,4,2,66.7,Matches,b96aa1d6
+482,Jason Pendant,fr FRA,DF,NY Red Bulls,25-143,1997,0.9,0,0,0,2,0,0,0,0,3,0,0,0,8,0,2,0.0,Matches,22fe9049
+483,Andrés Perea,us USA,MF,Orlando City,21-230,2000,5.5,1,0,0,11,11,0,1,9,6,0,1,0,45,20,15,57.1,Matches,7e1dbecf
+484,Daniel Pereira,ve VEN,MF,Austin FC,21-353,2000,12.3,6,2,1,29,28,0,5,20,14,1,0,0,106,3,4,42.9,Matches,b8862e65
+485,Gabriel Pereira,br BRA,FW,NYCFC,20-335,2001,3.9,0,0,0,4,4,0,8,4,3,0,0,0,23,1,4,20.0,Matches,60c4ac82
+486,Mauricio Pereyra,uy URU,MF,Orlando City,32-109,1990,14.7,2,0,0,23,39,0,32,17,13,0,0,0,101,5,15,25.0,Matches,f45eb18d
+487,Adrien Perez,us USA,MF,D.C. United,26-262,1995,1.5,1,0,0,1,3,1,1,5,0,0,0,0,16,1,6,14.3,Matches,298a167b
+488,Jonathan Perez,mx MEX,DF,LA Galaxy,19-165,2003,0.1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,Matches,41e57408
+489,Jordan Perruzza,ca CAN,FWMF,Toronto FC,21-167,2001,2.6,0,0,0,5,6,1,1,0,1,0,0,0,9,2,9,18.2,Matches,edc8791f
+490,Luca Petrasso,ca CAN,DFFW,Toronto FC,22-016,2000,14.8,0,0,0,13,12,2,36,29,14,0,0,0,113,16,21,43.2,Matches,fafeaf3d
+491,Đorđe Petrović,rs SRB,GK,New England,22-267,1999,4.0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,,Matches,0cf321c8
+492,Fafà Picault,us USA,FWMF,Houston Dynamo,31-129,1991,10.8,3,0,0,17,20,11,22,15,7,1,0,0,60,22,32,40.7,Matches,dbaa10c0
+493,Kayden Pierre,us USA,DFFW,Sporting KC,19-136,2003,0.9,0,0,0,0,3,0,1,0,5,0,0,0,8,1,1,50.0,Matches,2f5f098b
+494,Samuel Piette,ca CAN,MF,CF Montréal,27-232,1994,4.2,2,0,0,13,4,0,1,7,5,0,0,0,27,3,5,37.5,Matches,bc33c73b
+495,Mauricio Pineda,us USA,MFDF,Chicago Fire,24-258,1997,10.2,1,0,0,6,11,1,6,27,15,1,0,0,83,13,9,59.1,Matches,e0c17cde
+496,Donovan Pines,us USA,DF,D.C. United,24-117,1998,7.5,1,0,0,10,5,0,0,24,6,0,0,0,73,37,10,78.7,Matches,7bd25363
+497,Matt Polster,us USA,MF,New England,29-024,1993,11.4,6,0,0,23,13,0,1,26,24,1,0,1,103,18,15,54.5,Matches,d1d418f8
+498,Paxton Pomykal,us USA,MF,FC Dallas,22-197,1999,15.0,3,0,0,25,42,1,11,21,31,0,1,0,102,13,17,43.3,Matches,c1f0fb45
+499,Alvas Powell,jm JAM,DF,FC Cincinnati,27-349,1994,10.8,3,0,0,13,27,0,23,23,17,1,0,0,79,6,11,35.3,Matches,2f91124d
+500,Alejandro Pozuelo,es ESP,MFFW,Toronto FC,30-285,1991,14.6,3,0,0,15,31,1,31,7,21,1,0,0,106,5,17,22.7,Matches,5e1280ff
+501,Jack Price,eng ENG,MF,Colorado Rapids,29-195,1992,10.5,3,0,0,10,10,1,14,14,10,0,0,0,81,2,2,50.0,Matches,6217c92d
+502,Ralph Priso-Mbongue,ca CAN,MF,Toronto FC,19-334,2002,3.0,2,1,0,11,5,0,1,6,7,0,0,0,32,3,2,60.0,Matches,acb3e899
+503,Kacper Przybyłko,pl POL,FW,Chicago Fire,29-099,1993,11.9,2,0,0,15,21,12,6,4,6,0,0,0,41,57,64,47.1,Matches,4c53a714
+504,Facundo Quignon,ar ARG,MF,FC Dallas,29-061,1993,9.1,4,0,0,25,9,0,1,11,18,0,0,0,116,24,16,60.0,Matches,5b33b84c
+505,Joshué Quiñónez,ec ECU,DF,FC Dallas,21-281,2000,0.5,0,0,0,2,3,0,0,1,2,0,0,0,6,2,1,66.7,Matches,c7305b1d
+506,Darwin Quintero,co COL,MFFW,Houston Dynamo,34-286,1987,10.1,4,0,0,8,16,4,21,8,7,1,0,0,64,3,13,18.8,Matches,0cc00553
+507,Jairo Quinteros,bo BOL,DF,Inter Miami,21-145,2001,3.1,3,1,1,4,4,0,1,10,2,0,0,0,13,7,3,70.0,Matches,8363a7e8
+508,Romell Quioto,hn HON,FW,CF Montréal,30-327,1991,10.6,3,1,0,13,20,14,23,2,2,1,0,0,40,10,20,33.3,Matches,122e850d
+509,Jackson Ragen,us USA,DF,Seattle,23-281,1998,10.4,3,0,0,20,3,0,2,12,5,0,1,0,88,29,15,65.9,Matches,a3d67f70
+510,Ryan Raposo,ca CAN,DF,Vancouver,23-119,1999,7.5,0,0,0,3,16,1,26,18,7,0,0,0,47,5,10,33.3,Matches,f006a9b3
+511,Justin Rasmussen,us USA,DF,Portland Timbers,23-199,1998,7.2,1,0,0,5,3,0,23,12,4,0,0,0,54,8,3,72.7,Matches,989ecf23
+512,Rayan Raveloson,mg MAD,MF,LA Galaxy,25-167,1997,14.1,3,0,0,17,20,0,13,17,19,0,0,0,93,13,15,46.4,Matches,fb3236a7
+513,Matthew Real,us USA,MF,Philadelphia,22-357,1999,0.1,0,0,0,0,1,0,0,2,0,0,0,0,0,1,0,100.0,Matches,1c2c030a
+514,Rodney Redes,py PAR,FWMF,Austin FC,22-130,2000,0.9,1,0,0,1,3,1,2,3,1,0,0,0,9,1,2,33.3,Matches,426c3982
+515,Benjamin Redzic,us USA,FW,FC Dallas,19-279,2002,0.1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,Matches,ea8087aa
+516,Pierre Reedy,us USA,MF,Real Salt Lake,24-172,1998,0.1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,,Matches,903f2d95
+517,Eric Remedi,ar ARG,MFDF,San Jose,27-028,1995,9.6,5,0,0,23,43,0,2,15,24,0,0,0,94,12,15,44.4,Matches,38e2cbd6
+518,Justin Rennicks,us USA,FW,New England,23-104,1999,3.5,0,0,0,6,7,1,2,0,1,1,0,0,11,2,8,20.0,Matches,0aaa1c04
+519,Ben Reveno,us USA,MF,New England,23-095,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches,6f0a801a
+520,Yordy Reyna,pe PER,FWMF,Charlotte FC,28-288,1993,2.8,0,0,0,5,6,2,6,4,3,0,0,0,16,1,3,25.0,Matches,eec316d9
+521,Andre Reynolds II,us USA,DFMF,Chicago Fire,21-061,2001,1.4,0,0,0,4,2,0,1,3,2,0,0,0,11,2,3,40.0,Matches,d46dbe4f
+522,Emanuel Reynoso,ar ARG,MFFW,Minnesota Utd,26-228,1995,16.6,5,0,0,39,58,3,37,17,20,1,0,0,133,8,24,25.0,Matches,614b26e3
+523,Will Richmond,us USA,FW,San Jose,22-087,2000,0.5,0,0,0,1,2,0,2,0,1,0,0,0,4,0,1,0.0,Matches,e46ee2e9
+524,Tosaint Ricketts,ca CAN,FW,Vancouver,34-330,1987,1.8,0,0,0,0,0,5,0,1,0,0,0,0,8,12,10,54.5,Matches,54769358
+525,Alexander Ring,fi FIN,MF,Austin FC,31-084,1991,16.0,4,0,0,26,13,6,13,23,18,0,0,0,109,9,17,34.6,Matches,6c1221d6
+526,Rocco Ríos Novo,ar ARG,GK,Atlanta Utd,20-028,2002,3.0,1,0,0,0,0,0,0,0,0,0,0,0,17,0,0,,Matches,f59bd2d3
+527,Damien Rivera,us USA,FWMF,New England,19-206,2002,2.8,1,0,0,1,5,1,7,2,2,0,0,0,18,4,5,44.4,Matches,2822f3dd
+528,Nigel Robertha,nl NED,FWMF,D.C. United,24-139,1998,4.8,1,0,0,5,7,1,9,0,2,0,0,0,18,7,17,29.2,Matches,a94bad97
+529,Miles Robinson,us USA,DF,Atlanta Utd,25-110,1997,7.3,3,1,1,3,2,0,0,10,9,0,1,0,77,20,8,71.4,Matches,782a95d9
+530,Robbie Robinson,us USA,FWMF,Inter Miami,23-197,1998,5.4,0,0,0,3,8,0,7,6,2,0,0,0,25,2,6,25.0,Matches,e0dae99f
+531,Harrison Robledo,us USA,MFDF,FC Cincinnati,20-144,2002,0.5,0,0,0,0,4,0,1,2,1,0,0,0,9,0,0,,Matches,1f36ce15
+532,Abraham Rodriguez,us USA,GK,Colorado Rapids,19-348,2002,0.5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches,c7e14787
+533,Brian Rodríguez,uy URU,FW,Los Angeles FC,22-043,2000,7.2,1,0,0,12,17,4,13,3,2,0,0,0,47,1,8,11.1,Matches,c86041d7
+534,Emerson Rodríguez,co COL,MFFW,Inter Miami,21-311,2000,2.1,2,0,0,4,11,1,3,3,2,0,0,0,15,0,3,0.0,Matches,09e5ae16
+535,Memo Rodriguez,us USA,MFFW,Houston Dynamo,26-187,1995,10.4,5,0,0,27,17,1,23,16,13,0,0,0,65,6,18,25.0,Matches,fc6c6b2b
+536,Santiago Rodríguez,uy URU,MFFW,NYCFC,22-175,2000,12.6,5,0,0,22,31,3,21,13,17,0,0,0,73,9,16,36.0,Matches,86dff811
+537,Alex Roldan,sv SLV,DF,Seattle,25-339,1996,13.3,4,1,1,13,14,0,43,33,16,0,0,0,97,14,17,45.2,Matches,1255a82a
+538,Cristian Roldan,us USA,FWMF,Seattle,27-029,1995,13.3,0,0,0,11,26,3,47,10,13,1,0,0,98,29,31,48.3,Matches,48875649
+539,Jhohan Romaña,co COL,DF,Austin FC,23-292,1998,0.5,0,0,0,0,0,0,0,1,0,0,0,0,2,4,0,100.0,Matches,4e32c2d6
+540,David Romney,us USA,DF,Nashville,29-020,1993,15.4,1,0,0,8,4,1,16,14,4,0,0,0,125,47,21,69.1,Matches,b7b6e781
+541,Rafael Romo,ve VEN,GK,D.C. United,32-127,1990,3.5,1,0,0,1,0,0,0,0,0,0,0,0,18,0,0,,Matches,8827c189
+542,Eloy Room,cw CUW,GK,Columbus Crew,33-146,1989,16.0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,Matches,6b33d86b
+543,Joseph Rosales,hn HON,MF,Minnesota Utd,21-238,2000,5.5,4,1,1,15,9,1,2,20,10,1,0,0,70,4,7,36.4,Matches,6a29d06b
+544,Oriol Rosell,es ESP,MF,Sporting KC,29-360,1992,7.0,4,1,1,18,4,0,1,17,11,0,1,0,51,5,3,62.5,Matches,2a17ef3e
+545,Keegan Rosenberry,us USA,DF,Colorado Rapids,28-203,1993,16.0,3,0,0,14,6,1,30,21,18,0,1,0,117,14,9,60.9,Matches,f940c69e
+546,Matheus Rossetto,br BRA,MF,Atlanta Utd,26-029,1996,10.1,0,0,0,18,4,1,2,18,14,0,0,0,86,8,7,53.3,Matches,daf8c775
+547,Paul Rothrock,us USA,FW,Toronto FC,23-174,1999,0.4,0,0,0,0,2,1,2,0,2,0,0,0,1,0,2,0.0,Matches,875e8269
+548,Kelyn Rowe,us USA,DFMF,Seattle,30-212,1991,8.6,4,0,0,11,16,0,15,16,9,0,0,0,92,8,9,47.1,Matches,cf928adb
+549,Ruan,br BRA,DF,Orlando City,27-034,1995,14.1,2,0,0,6,19,4,37,19,5,0,0,0,86,7,7,50.0,Matches,f2665f7c
+550,Rubio Rubin,us USA,FW,Real Salt Lake,26-123,1996,3.8,0,0,0,2,4,4,1,0,0,0,0,0,9,4,15,21.1,Matches,9bad7100
+551,Diego Rubio,cl CHI,FWMF,Colorado Rapids,29-048,1993,12.5,6,1,1,14,39,5,17,8,5,1,0,0,56,37,30,55.2,Matches,3f082234
+552,Raúl Ruidíaz,pe PER,FW,Seattle,31-342,1990,6.3,0,0,0,1,8,1,0,2,1,1,0,0,21,8,8,50.0,Matches,7a4296e1
+553,Pablo Ruíz,ar ARG,MF,Real Salt Lake,23-194,1998,14.5,5,0,0,21,9,0,14,36,38,0,0,0,163,3,12,20.0,Matches,7368cd70
+554,Sergio Ruiz,es ESP,MF,Charlotte FC,27-198,1994,4.8,0,0,0,9,9,1,4,9,7,0,0,0,42,4,13,23.5,Matches,1f423a54
+555,Albert Rusnák,sk SVK,MF,Seattle,27-360,1994,12.6,1,0,0,7,17,0,11,17,8,0,0,0,99,7,5,58.3,Matches,0adeafaa
+556,Johnny Russell,sct SCO,FWMF,Sporting KC,32-085,1990,16.5,4,0,0,18,38,3,40,15,14,0,0,0,83,40,30,57.1,Matches,a30e1562
+557,Jacen Russell-Rowe,ca CAN,FW,Columbus Crew,19-292,2002,1.1,1,0,0,2,3,0,0,0,0,0,0,0,4,2,3,40.0,Matches,b33c6ed5
+558,Zach Ryan,us USA,FW,NY Red Bulls,23-169,1999,0.5,1,0,0,1,1,0,0,0,0,0,0,0,4,1,3,25.0,Matches,74ba46bc
+559,Ryan Sailor,us USA,DF,Inter Miami,23-217,1998,5.7,0,0,0,2,0,0,0,6,8,0,0,0,29,16,10,61.5,Matches,4924d9bb
+560,Carlos Salcedo,mx MEX,DF,Toronto FC,28-276,1993,11.8,4,1,0,9,10,0,1,41,5,0,0,0,133,16,14,53.3,Matches,64c07ae1
+561,Shea Salinas,us USA,FWDF,San Jose,36-008,1986,0.4,0,0,0,1,1,0,0,2,2,0,0,0,7,1,2,33.3,Matches,4c10838d
+562,Dániel Sallói,hu HUN,FWMF,Sporting KC,25-348,1996,12.9,0,1,0,8,23,3,19,9,0,1,0,0,64,11,23,32.4,Matches,6fcddf5f
+563,Gaoussou Samaké,ci CIV,DF,D.C. United,24-240,1997,0.6,1,0,0,1,1,0,2,3,1,0,0,0,7,0,2,0.0,Matches,ae760cf4
+564,Ilie Sánchez,es ESP,MF,Los Angeles FC,31-223,1990,16.4,4,0,0,24,19,0,3,39,22,0,0,0,172,37,21,63.8,Matches,72979f65
+565,William Sands,us USA,DF,Columbus Crew,21-361,2000,1.5,1,0,0,2,2,0,2,2,1,0,0,0,9,4,0,100.0,Matches,960a4473
+566,Sergio Santos Gomes,br BRA,FW,Philadelphia,27-301,1994,6.8,2,0,0,22,11,4,10,4,11,0,0,0,44,22,26,45.8,Matches,a930b263
+567,Koa Santos,us USA,MF,Charlotte FC,22-284,1999,0.6,0,0,0,2,1,0,1,0,0,0,0,0,5,0,0,,Matches,c09ddc5e
+568,Pedro Santos,pt POR,DF,Columbus Crew,34-071,1988,13.6,3,0,0,22,31,0,30,30,38,0,0,0,138,14,13,51.9,Matches,789da0f2
+569,C.J. Sapong,us USA,FW,Nashville,33-187,1988,14.8,3,0,0,30,28,9,5,8,4,0,0,0,66,87,55,61.3,Matches,ef4e4c5d
+570,Jefferson Savarino,ve VEN,MF,Real Salt Lake,25-233,1996,2.5,0,0,0,0,3,2,12,3,6,0,0,0,8,1,0,100.0,Matches,91721722
+571,Rodrigo Schlegel,ar ARG,DF,Orlando City,25-090,1997,10.8,6,1,1,24,12,0,0,18,15,0,2,0,76,16,15,51.6,Matches,5bb02df4
+572,Tate Schmitt,us USA,DF,Real Salt Lake,25-035,1997,8.9,4,0,0,8,4,0,9,20,11,0,1,0,88,13,11,54.2,Matches,fa21bbc8
+573,Eddie Segura,co COL,DF,Los Angeles FC,25-150,1997,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,Matches,c70e3fe0
+574,Amar Sejdic,us USA,MF,Atlanta Utd,25-215,1996,5.6,2,0,0,8,2,0,1,6,8,0,0,0,54,1,2,33.3,Matches,43ca2019
+575,Boris Sekulić,sk SVK,DF,Chicago Fire,30-254,1991,16.1,3,0,0,21,12,0,36,32,17,0,0,0,142,22,16,57.9,Matches,adf26bd4
+576,Brandon Servania,us USA,MF,FC Dallas,23-112,1999,10.9,5,1,1,19,20,0,10,12,15,0,0,0,102,9,13,40.9,Matches,4d825a2d
+577,Jacob Shaffelburg,ca CAN,DF,Toronto FC,22-218,1999,6.1,1,0,0,4,9,0,15,17,8,0,0,0,57,3,12,20.0,Matches,339a2561
+578,Xherdan Shaqiri,ch SUI,MFFW,Chicago Fire,30-265,1991,12.1,2,0,0,14,30,8,56,5,9,0,0,0,71,18,12,60.0,Matches,6421ec64
+579,Brek Shea,us USA,DF,Inter Miami,32-124,1990,1.6,0,1,0,2,2,1,2,3,1,0,0,0,8,3,2,60.0,Matches,adb6ae24
+580,Khiry Shelton,us USA,FW,Sporting KC,29-006,1993,11.2,0,0,0,16,11,3,2,2,6,0,0,0,40,25,37,40.3,Matches,f935709c
+581,Andre Shinyashiki,br BRA,FWMF,Colorado Rapids,27-021,1995,2.4,1,0,0,4,4,2,2,3,3,0,0,0,15,3,9,25.0,Matches,8c395868
+582,Andre Shinyashiki,br BRA,MFFW,Charlotte FC,27-021,1995,5.6,1,0,0,9,8,1,18,4,6,0,0,0,39,2,7,22.2,Matches,8c395868
+583,Bobby Shuttleworth,us USA,GK,Atlanta Utd,35-050,1987,6.2,0,0,0,0,1,0,0,0,0,0,0,0,19,0,0,,Matches,4598ac94
+584,Marcelo Silva,uy URU,DF,Real Salt Lake,33-103,1989,15.8,4,0,0,10,8,0,1,32,14,0,0,0,128,44,26,62.9,Matches,b9596515
+585,Jack Skahan,us USA,MFDF,San Jose,24-145,1998,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches,9c07bdc7
+586,Drew Skundrich,us USA,MF,D.C. United,26-288,1995,4.9,1,0,0,12,4,0,1,6,6,0,0,0,60,5,5,50.0,Matches,51f50135
+587,Gabriel Slonina,us USA,GK,Chicago Fire,18-048,2004,17.0,0,0,0,0,3,0,0,0,0,0,0,0,67,0,0,,Matches,c55a846e
+588,Brad Smith,au AUS,DF,D.C. United,28-084,1994,12.1,2,0,0,18,4,1,32,26,11,0,0,0,90,4,8,33.3,Matches,c76c717c
+589,Kimarni Smith,eng ENG,DF,D.C. United,24-110,1998,0.4,0,0,0,0,1,0,1,2,1,0,0,0,3,0,1,0.0,Matches,bbbb244b
+590,Kyle Smith,us USA,DF,Orlando City,30-174,1992,6.2,3,0,0,13,8,0,11,8,8,0,0,0,57,14,9,60.9,Matches,9e6b2ec3
+591,Jan Sobociński,pl POL,DF,Charlotte FC,23-104,1999,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,100.0,Matches,5358009d
+592,Santiago Sosa,ar ARG,MF,Atlanta Utd,23-060,1999,3.6,1,0,0,6,0,0,0,8,5,0,0,0,34,7,3,70.0,Matches,f080dd22
+593,Ryan Spaulding,us USA,DF,New England,23-295,1998,2.1,0,0,0,2,6,0,6,8,2,0,0,0,28,4,1,80.0,Matches,9fda5cd3
+594,Steven Sserwadda,ug UGA,MF,NY Red Bulls,19-308,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,0.0,Matches,bddc8df4
+595,Dayne St. Clair,ca CAN,GK,Minnesota Utd,25-054,1997,15.0,1,0,0,0,4,0,0,0,1,0,0,0,71,0,0,,Matches,3f41d25f
+596,Mason Stajduhar,us USA,GK,Orlando City,24-212,1997,1.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,Matches,f01df62c
+597,Daniel Steres,us USA,DF,Houston Dynamo,31-233,1990,6.5,2,0,0,7,1,0,0,7,6,0,1,0,41,11,13,45.8,Matches,17c03c76
+598,Jared Stroud,us USA,MF,Austin FC,25-357,1996,0.3,0,0,0,3,0,0,0,0,0,0,0,0,0,2,2,50.0,Matches,5d018899
+599,Brad Stuver,us USA,GK,Austin FC,31-077,1991,14.1,1,0,0,1,3,0,0,0,0,0,1,0,69,0,0,,Matches,6a1940d5
+600,Quinn Sullivan,us USA,MFFW,Philadelphia,18-097,2004,1.8,1,0,0,4,0,0,2,2,3,0,0,0,12,1,6,14.3,Matches,92f62cfe
+601,Ben Sweat,us USA,DF,Sporting KC,30-301,1991,6.4,1,0,0,12,7,0,8,6,5,0,0,0,54,8,11,42.1,Matches,6937b1ac
+602,Karol Świderski,pl POL,FW,Charlotte FC,25-160,1997,13.1,0,0,0,5,32,6,13,7,8,0,0,0,50,14,24,36.8,Matches,41723204
+603,Ismael Tajouri-Shradi,ly LBY,FWMF,Los Angeles FC,28-096,1994,1.8,0,0,0,0,3,2,6,1,0,0,0,0,12,2,0,100.0,Matches,ef4249ff
+604,Andrew Tarbell,us USA,GK,Austin FC,28-268,1993,2.9,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,,Matches,c5487a34
+605,D.J. Taylor,us USA,DF,Minnesota Utd,24-310,1997,8.6,2,0,0,10,6,0,16,16,9,0,0,0,66,6,16,27.3,Matches,ed4dc7f4
+606,Robert Taylor,fi FIN,MFFW,Inter Miami,27-254,1994,11.2,0,0,0,4,5,0,11,19,3,1,0,0,58,13,11,54.2,Matches,1fc0973f
+607,Russell Teibert,ca CAN,MF,Vancouver,29-192,1992,11.4,3,0,0,16,9,0,10,29,13,0,0,0,84,6,13,31.6,Matches,674befe9
+608,Carlos Terán,co COL,DF,Chicago Fire,21-281,2000,5.0,3,0,0,10,3,1,3,10,6,0,0,0,55,21,7,75.0,Matches,324509e2
+609,Dylan Teves,us USA,FW,Seattle,22-049,2000,0.2,0,0,0,0,0,0,0,1,0,0,0,0,4,0,1,0.0,Matches,f68ed3ba
+610,Thiago,br BRA,FW,NYCFC,21-244,2000,7.4,1,0,0,17,3,2,14,11,10,0,0,0,48,8,10,44.4,Matches,6adb0b79
+611,Kosi Thompson,ca CAN,DFMF,Toronto FC,19-156,2003,11.4,1,0,0,5,17,0,14,24,13,0,0,0,74,15,17,46.9,Matches,517bef8b
+612,Tommy Thompson,us USA,DF,San Jose,26-321,1995,3.7,0,0,0,1,5,0,4,9,4,0,0,0,36,5,6,45.5,Matches,5f6c69d8
+613,Anton Tinnerholm,se SWE,DF,NYCFC,31-126,1991,0.5,0,0,0,0,2,0,4,0,0,0,0,0,5,1,0,100.0,Matches,0fe96099
+614,John Tolkin,us USA,DF,NY Red Bulls,19-336,2002,15.7,3,0,0,12,23,2,25,38,24,0,0,0,156,20,22,47.6,Matches,5e88c524
+615,Nouhou Tolo,cm CMR,DF,Seattle,25-009,1997,12.4,3,0,0,9,15,1,13,40,10,0,1,0,84,19,9,67.9,Matches,0796512f
+616,Facundo Torres,uy URU,FW,Orlando City,22-080,2000,14.1,0,0,0,10,32,5,32,19,15,0,0,0,93,11,14,44.0,Matches,4de3b2c0
+617,Jairo Torres,mx MEX,FWMF,Chicago Fire,21-362,2000,1.8,0,0,0,3,1,2,5,0,1,0,0,0,11,3,8,27.3,Matches,7ed56490
+618,Joaquín Torres,ar ARG,MFFW,CF Montréal,25-155,1997,9.2,3,0,0,7,18,2,10,6,4,0,0,0,46,2,6,25.0,Matches,c82dcb70
+619,Dantouma Toure,gn GUI,FW,Colorado Rapids,18-020,2004,0.0,1,0,0,2,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches,b5d2014f
+620,Mason Toye,us USA,FWMF,CF Montréal,23-259,1998,0.8,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0.0,Matches,0aa41f67
+621,Wil Trapp,us USA,MF,Minnesota Utd,29-168,1993,13.0,9,0,0,24,9,0,3,34,24,0,2,0,119,21,21,50.0,Matches,9bf9391c
+622,Daniel Trejo,us USA,FW,Los Angeles FC,24-064,1998,0.2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0.0,Matches,1312c534
+623,Auston Trusty,us USA,DF,Colorado Rapids,23-324,1998,15.0,5,1,1,17,7,2,8,29,12,0,0,0,126,36,22,62.1,Matches,cddf767b
+624,Niko Tsakiris,us USA,MF,San Jose,17-013,2005,0.5,0,0,0,0,0,0,1,1,1,0,0,0,3,0,0,,Matches,cb501677
+625,Bill Tuiloma,nz NZL,DF,Portland Timbers,27-097,1995,14.2,5,1,1,22,10,1,2,37,12,0,0,1,118,46,21,68.7,Matches,bf547c54
+626,Matt Turner,us USA,GK,New England,28-008,1994,5.0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,,Matches,4a51ba65
+627,Ema Twumasi,gh GHA,DF,FC Dallas,25-045,1997,10.7,3,0,0,13,3,0,13,17,11,0,0,0,93,10,11,47.6,Matches,9ca4b140
+628,Marinos Tzionis,cy CYP,FWMF,Sporting KC,20-351,2001,5.3,0,0,0,6,18,1,7,5,2,0,0,0,41,6,10,37.5,Matches,b004076a
+629,Mikael Uhre,dk DEN,FW,Philadelphia,27-275,1994,6.3,0,0,0,2,11,4,8,2,1,0,0,0,26,19,29,39.6,Matches,be84c466
+630,Þorleifur Úlfarsson,is ISL,FWMF,Houston Dynamo,21-187,2000,6.3,3,0,0,1,12,0,4,3,2,0,0,0,34,15,23,39.5,Matches,7e1046fa
+631,Victor Ulloa,us USA,MFDF,Inter Miami,30-120,1992,2.2,0,0,0,4,4,0,0,3,2,0,0,0,19,4,4,50.0,Matches,e7056f05
+632,Maximiliano Urruti,ar ARG,FW,Austin FC,31-130,1991,12.9,3,0,0,23,20,7,5,8,14,0,0,0,52,1,20,4.8,Matches,6c8fb474
+633,Júnior Urso,br BRA,MFFW,Orlando City,33-114,1989,13.9,2,0,0,23,40,0,7,24,16,0,0,0,94,16,13,55.2,Matches,b40424f1
+634,Jhojan Valencia,co COL,MF,Austin FC,25-340,1996,3.0,4,0,0,16,6,0,1,6,9,0,0,0,34,4,3,57.1,Matches,3fbe573e
+635,Zarek Valentin,pr PUR,DF,Houston Dynamo,30-330,1991,1.4,0,0,0,2,2,0,3,4,1,0,0,0,14,1,2,33.3,Matches,f0d23e7b
+636,Gustavo Vallecilla,ec ECU,DF,Colorado Rapids,23-035,1999,1.4,0,0,0,2,1,0,1,4,4,0,0,0,9,3,1,75.0,Matches,2ce88662
+637,José Van Rankin,mx MEX,DF,Portland Timbers,29-049,1993,13.8,8,2,2,23,7,1,22,18,18,0,0,0,107,19,14,57.6,Matches,09ce2ebe
+638,Kerwin Vargas,co COL,MFFW,Charlotte FC,20-181,2002,0.7,0,0,0,1,1,0,4,1,0,0,0,0,3,0,5,0.0,Matches,758de7b4
+639,Obed Vargas,us USA,MF,Seattle,16-331,2005,9.5,5,0,0,12,27,0,5,13,16,0,0,0,74,7,5,58.3,Matches,9cc1fde4
+640,Indiana Vassilev,us USA,FWMF,Inter Miami,21-136,2001,3.8,1,0,0,4,9,0,2,4,0,0,0,0,19,2,6,25.0,Matches,04e195ee
+641,Brandon Vazquez,us USA,FW,FC Cincinnati,23-261,1998,14.8,1,0,0,21,31,11,9,6,6,1,0,0,56,49,58,45.8,Matches,c570cf22
+642,Víctor Vázquez,es ESP,MFFW,LA Galaxy,35-163,1987,5.9,1,0,0,7,7,0,15,9,4,0,0,0,39,2,2,50.0,Matches,6c564d36
+643,Carlos Vela,mx MEX,FWMF,Los Angeles FC,33-123,1989,13.8,1,0,0,19,28,9,34,5,6,1,0,0,70,13,18,41.9,Matches,e0cd04e0
+644,Alan Velasco,ar ARG,FW,FC Dallas,19-340,2002,9.6,4,0,0,17,25,4,13,11,5,0,0,0,51,5,11,31.3,Matches,16349210
+645,Matías Vera,ar ARG,MF,Houston Dynamo,26-249,1995,12.6,4,0,0,28,13,0,1,17,19,0,0,0,83,8,5,61.5,Matches,fe529f25
+646,Ranko Veselinović,rs SRB,DF,Vancouver,23-100,1999,15.9,3,0,0,8,7,0,0,23,14,1,1,0,105,34,22,60.7,Matches,366609b6
+647,Pedro Vite,ec ECU,MF,Vancouver,20-115,2002,3.5,1,0,0,5,9,1,3,3,2,0,0,0,32,3,5,37.5,Matches,9c146b36
+648,Robert Voloder,ba BIH,DF,Sporting KC,21-054,2001,5.4,2,1,1,3,5,0,0,14,2,0,0,0,49,4,0,100.0,Matches,33d9d789
+649,Nikola Vujnović,me MNE,FW,Sporting KC,25-172,1997,3.7,0,0,0,3,5,2,0,1,2,0,0,0,14,15,18,45.5,Matches,128d62ba
+650,Kai Wagner,de GER,DF,Philadelphia,25-137,1997,17.0,4,0,0,27,16,0,52,38,17,0,1,0,146,30,17,63.8,Matches,fdc715d9
+651,Anton Walkes,eng ENG,DF,Charlotte FC,25-144,1997,4.6,0,0,0,0,0,0,1,10,4,0,0,0,44,12,3,80.0,Matches,8a062bba
+652,Rémi Walter,fr FRA,MF,Sporting KC,27-067,1995,17.2,2,0,0,13,10,0,14,35,26,0,0,0,195,25,18,58.1,Matches,0984c5d5
+653,Victor Wanyama,ke KEN,MF,CF Montréal,31-007,1991,15.4,6,0,0,31,39,0,2,19,19,0,0,0,173,31,19,62.0,Matches,e0900238
+654,Collen Warner,us USA,MF,Colorado Rapids,34-008,1988,2.6,0,0,0,2,2,0,1,4,4,0,0,0,23,5,1,83.3,Matches,75babbce
+655,Taylor Washington,us USA,DFMF,Nashville,28-320,1993,4.5,1,0,0,3,2,0,34,11,2,0,0,0,28,8,3,72.7,Matches,480d3bcc
+656,Joel Waterman,ca CAN,DF,CF Montréal,26-159,1996,14.8,7,0,0,17,10,0,3,34,9,0,0,0,123,15,17,46.9,Matches,47ddcc22
+657,Quentin Westberg,us USA,GK,Toronto FC,36-068,1986,3.0,1,0,0,0,2,0,0,0,0,0,0,0,11,0,0,,Matches,5480ae05
+658,Brian White,us USA,FW,Vancouver,26-149,1996,7.9,1,0,0,15,9,3,6,2,4,0,0,0,20,26,27,49.1,Matches,54c948de
+659,Caleb Wiley,us USA,DFFW,Atlanta Utd,17-192,2004,5.2,0,0,0,8,3,0,20,10,7,0,1,0,45,4,6,40.0,Matches,64796fe0
+660,Derrick Williams,ie IRL,DF,LA Galaxy,29-166,1993,11.1,4,0,0,12,6,1,4,16,4,0,0,0,120,26,13,66.7,Matches,c0a28fbd
+661,Josh Williams,us USA,DF,Columbus Crew,34-075,1988,6.6,0,0,0,1,1,0,0,13,3,0,0,0,47,14,13,51.9,Matches,06098bfc
+662,Thomas Williams,us USA,DF,Orlando City,17-321,2004,2.0,1,0,0,7,0,0,0,1,2,0,0,0,11,4,6,40.0,Matches,d46d1cdd
+663,Eryk Williamson,us USA,MFFW,Portland Timbers,25-021,1997,5.6,4,0,0,18,8,0,4,7,7,0,0,0,45,7,9,43.8,Matches,e0364352
+664,Joe Willis,us USA,GK,Nashville,33-326,1988,16.0,0,0,0,1,2,0,0,0,0,0,1,0,61,0,0,,Matches,467f09c8
+665,Danny Wilson,sct SCO,DF,Colorado Rapids,30-187,1991,10.5,3,0,0,16,5,1,0,9,9,0,0,0,98,29,19,60.4,Matches,9cfe9254
+666,Owen Wolff,us USA,FWMF,Austin FC,17-184,2004,5.4,1,0,0,10,8,1,12,6,5,0,0,0,30,2,13,13.3,Matches,9edc70d6
+667,Tyler Wolff,us USA,FWMF,Atlanta Utd,19-139,2003,2.8,0,0,0,2,7,1,0,4,1,0,0,0,18,1,2,33.3,Matches,0985c282
+668,Bobby Wood,us USA,FW,Real Salt Lake,29-229,1992,10.9,0,0,0,14,19,4,3,3,6,0,0,0,34,25,51,32.9,Matches,9853983f
+669,Darren Yapi,us USA,FW,Colorado Rapids,17-225,2004,0.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches,63abd734
+670,William Yarbrough,us USA,GK,Colorado Rapids,33-104,1989,15.5,3,0,0,1,2,0,0,0,0,0,1,0,82,0,0,,Matches,ec646e88
+671,Dru Yearwood,eng ENG,MF,NY Red Bulls,22-135,2000,10.8,4,0,0,20,9,0,1,26,21,0,0,0,123,7,6,53.8,Matches,2eb09121
+672,Steffen Yeattes,ca CAN,MF,Toronto FC,22-179,2000,0.4,0,0,0,1,1,0,1,1,0,0,0,0,2,0,0,,Matches,bf89f7a7
+673,Yaw Yeboah,gh GHA,FW,Columbus Crew,25-096,1997,8.1,1,0,0,7,16,1,20,4,13,0,0,0,51,5,11,31.3,Matches,36292031
+674,DeAndre Yedlin,us USA,DF,Inter Miami,28-358,1993,15.3,4,0,0,15,11,0,25,26,16,1,0,0,110,13,9,59.1,Matches,ae0a7ddf
+675,Griffin Yow,us USA,MFFW,D.C. United,19-280,2002,3.0,1,0,0,9,9,1,3,0,4,0,0,0,22,2,4,33.3,Matches,ddd5cf39
+676,Jackson Yueill,us USA,MFDF,San Jose,25-105,1997,13.7,1,0,0,18,16,0,5,27,13,0,2,0,129,10,13,43.5,Matches,7dce16bf
+677,Gyasi Zardes,us USA,FW,Colorado Rapids,30-303,1991,6.4,0,0,0,3,11,6,1,2,1,0,0,0,17,12,23,34.3,Matches,09ae7f92
+678,Gyasi Zardes,us USA,FW,Columbus Crew,30-303,1991,2.3,0,0,0,2,8,1,4,0,1,0,0,0,10,6,10,37.5,Matches,09ae7f92
+679,Eriq Zavaleta,sv SLV,DF,LA Galaxy,29-334,1992,0.7,0,0,0,0,0,0,0,0,0,0,0,0,5,3,2,60.0,Matches,edbfbb3f
+680,Sean Zawadzki,us USA,MF,Columbus Crew,22-072,2000,1.7,0,0,0,1,1,0,1,7,2,0,0,0,9,1,1,50.0,Matches,380ee265
+681,Zeca,br BRA,DF,Houston Dynamo,28-047,1994,8.6,2,0,0,5,7,1,30,14,14,0,0,0,56,7,11,38.9,Matches,c816eea6
+682,Gedion Zelalem,us USA,MF,NYCFC,25-157,1997,0.9,1,0,0,2,2,0,0,3,0,0,0,0,13,1,0,100.0,Matches,b15ac68f
+683,Lucas Zelarayán,am ARM,MFFW,Columbus Crew,30-012,1992,10.3,1,0,0,16,41,1,36,16,7,0,0,0,53,4,12,25.0,Matches,3ce30893
+684,Walker Zimmerman,us USA,DF,Nashville,29-044,1993,13.5,3,0,0,13,6,0,1,24,16,0,0,0,137,61,30,67.0,Matches,220fa883
+685,Rida Zouhir,ca CAN,MF,CF Montréal,18-221,2003,1.3,1,0,0,2,0,0,1,1,2,0,0,0,15,1,1,50.0,Matches,e1e65f24
+686,Ethan Zubak,us USA,FW,Nashville,24-078,1998,1.2,2,0,0,4,1,0,2,0,0,0,0,0,2,5,9,35.7,Matches,9f39b6cf
+687,Dario Župarić,ba BIH,DF,Portland Timbers,30-060,1992,10.4,3,0,0,8,9,0,0,16,3,0,0,0,93,24,15,61.5,Matches,c6f99e42
+688,Graham Zusi,us USA,DF,Sporting KC,35-318,1986,12.0,1,0,0,12,18,0,26,28,7,0,0,0,125,15,11,57.7,Matches,9ba42447
+689,Róbert Þorkelsson,is ISL,DFMF,CF Montréal,20-090,2002,0.8,0,0,0,1,3,0,0,2,1,0,0,0,9,2,1,66.7,Matches,0eb8ad80
