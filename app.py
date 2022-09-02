@@ -39,7 +39,8 @@ with sqlite3.connect('mlsdb.sqlite') as conn:
     goalLeaders= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
 
 
-goalFig = px.bar(goalLeaders.sort_values('Goals', ascending = False).head(20), x='Name', y="Goals", color = 'Squad', template = 'plotly', title = 'Top Goal Scorers')
+goalFig = px.bar(goalLeaders.sort_values('Goals', ascending = False).head(5), x='Name', y="Goals", color = 'Squad', template = 'plotly_dark', title = 'Top Goal Scorers')
+goalFig.update_layout(title_x=0.5)
 #Assist Leaders
 with sqlite3.connect('mlsdb.sqlite') as conn:
     query = conn.execute("""
@@ -53,6 +54,9 @@ with sqlite3.connect('mlsdb.sqlite') as conn:
     ORDER BY Assists DESC;""")
     cols = [column[0] for column in query.description]
     astLeaders= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
+
+astFig = px.bar(astLeaders.sort_values('Assists', ascending = False).head(5), x='Name', y="Assists", color = 'Squad', template = 'plotly_dark', title = 'Top Assist Earners')
+astFig.update_layout(title_x=0.5)
 #Shot Creating Passes
 with sqlite3.connect('mlsdb.sqlite') as conn:
     query = conn.execute("""
@@ -66,6 +70,9 @@ with sqlite3.connect('mlsdb.sqlite') as conn:
     ORDER BY "Shot Creating Passes" DESC;""")
     cols = [column[0] for column in query.description]
     scLeaders= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
+
+scpFig = px.bar(scLeaders.sort_values('Shot Creating Passes', ascending = False).head(5), x='Name', y="Shot Creating Passes", color = 'Squad', template = 'plotly_dark', title = 'Most Shot Creating Passes')
+scpFig.update_layout(title_x=0.5)
 #Tackles Won
 with sqlite3.connect('mlsdb.sqlite') as conn:
     query = conn.execute("""
@@ -79,13 +86,17 @@ with sqlite3.connect('mlsdb.sqlite') as conn:
     ORDER BY "Won Tackles" DESC;""")
     cols = [column[0] for column in query.description]
     tklWLeaders= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
+
+tklWFig = px.bar(tklWLeaders.sort_values('Won Tackles', ascending = False).head(5), x='Name', y="Won Tackles", color = 'Squad', template = 'plotly_dark', title = 'Most Successful Tackles')
+tklWFig.update_layout(title_x=0.5)
+
 #Tackle Percentage where at least 50 tackles were attempted
 with sqlite3.connect('mlsdb.sqlite') as conn:
     query = conn.execute("""
     SELECT
     p.name Name,
     p.squad Squad,
-    ROUND(d.tklW/ (d.tklAttThird + d.tklDefThird + d.tklMidThird), 2) "Tackle Percentage"
+    ROUND(CAST(d.tklW AS REAL)/ (d.tklAttThird + d.tklDefThird + d.tklMidThird), 2) "Tackle Percentage"
     FROM playerDefense d
     INNER JOIN players p
     	ON d.player_id = p.id
@@ -93,19 +104,9 @@ with sqlite3.connect('mlsdb.sqlite') as conn:
     ORDER BY "Tackle Percentage" DESC;""")
     cols = [column[0] for column in query.description]
     tklPercentLeaders= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
-#Interceptions
-with sqlite3.connect('mlsdb.sqlite') as conn:
-    query = conn.execute("""
-    SELECT
-    p.name Name,
-    p.squad Squad,
-    d.int Interceptions
-    FROM playerDefense d
-    INNER JOIN players p
-    	ON d.player_id = p.id
-    ORDER BY Interceptions DESC;""")
-    cols = [column[0] for column in query.description]
-    tklPercentLeaders= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
+
+tklPFig = px.bar(tklPercentLeaders.sort_values('Tackle Percentage', ascending = False).head(5), x='Name', y="Tackle Percentage", color = 'Squad', template = 'plotly_dark', title = 'Highest Successful Tackle Percantage')
+tklPFig.update_layout(title_x=0.5)
 #Highest Save Percentage among keepers with at least 10 games
 with sqlite3.connect('mlsdb.sqlite') as conn:
     query = conn.execute("""
@@ -121,33 +122,77 @@ with sqlite3.connect('mlsdb.sqlite') as conn:
     cols = [column[0] for column in query.description]
     savePercentLeaders= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
 
+savePFig = px.bar(savePercentLeaders.sort_values('Save Percentage', ascending = False,).head(5), x='Name', y='Save Percentage', color = 'Squad', template = 'plotly_dark', title = 'Highest Save Percentage')
+savePFig.update_layout(title_x=0.5)
 
 app.layout = html.Div(children=[
-    html.H1(children='MLS Dashboard'),
-    html.H2(children='League Leaders'),
+    html.H1('MLS Dashboard',
+             style={'textAlign': 'center', 'color': 'white','font-size': 40, 'margin-bottom':'2em'}),
+    html.H2('League Leaders',
+             style={'textAlign': 'center', 'color': 'white','font-size': 30}),
 
-    html.H4(children='Top Goal Scorers'),
-    generate_table(goalLeaders),
-
-    dcc.Graph(
-        id='example-graph',
-        figure=goalFig
+    dbc.Row(
+        [
+            dbc.Col(html.Div([
+                html.H4('Top Goal Scorers',
+                    style={'textAlign': 'center', 'color': 'white', 'margin-bottom':'1em', 'margin-top':'1em'}),
+                dcc.Graph(
+                    id='goal-graph',
+                    figure=goalFig,
+                )], id='plot1'),
+            lg={'size':6, 'offset':0}, md={'size':8, 'offset':2}),
+            dbc.Col(html.Div([
+                html.H4('Most Assists',
+                    style={'textAlign': 'center', 'color': 'white', 'margin-bottom':'1em', 'margin-top':'1em'}),
+                dcc.Graph(
+                    id='ast-graph',
+                    figure=astFig,
+                )], id='plot2'),
+            lg={'size':6, 'offset':0}, md={'size':8, 'offset':2}),
+        ]
     ),
 
-    html.H4(children='Most Assists'),
-    generate_table(astLeaders),
+    dbc.Row(
+        [
+            dbc.Col(html.Div([
+                html.H4('Most Shot Creating Passes',
+                    style={'textAlign': 'center', 'color': 'white', 'margin-bottom':'1em', 'margin-top':'1em'}),
+                dcc.Graph(
+                    id='scp-graph',
+                    figure=scpFig,
+                )], id='plot3'),
+            lg={'size':6, 'offset':0}, md={'size':8, 'offset':2}),
+            dbc.Col(html.Div([
+                html.H4('Most Successful Tackles',
+                    style={'textAlign': 'center', 'color': 'white', 'margin-bottom':'1em', 'margin-top':'1em'}),
+                dcc.Graph(
+                    id='tklw-graph',
+                    figure=tklWFig,
+                )], id='plot4'),
+            lg={'size':6, 'offset':0}, md={'size':8, 'offset':2}),
+        ]
+    ),
 
-    html.H4(children='Most Shot Creating Passes'),
-    generate_table(scLeaders),
-
-    html.H4(children='Most Tackles Won'),
-    generate_table(tklWLeaders),
-
-    html.H4(children='Highest Tackle Percent (Minimum 25 tackles)'),
-    generate_table(tklPercentLeaders),
-
-    html.H4(children='Highest Save Percent (Minimum 10 starts)'),
-    generate_table(savePercentLeaders)
+    dbc.Row(
+        [
+            dbc.Col(html.Div([
+                html.H4('Highest Tackle Percent (Minimum 25 tackles)',
+                    style={'textAlign': 'center', 'color': 'white', 'margin-bottom':'1em', 'margin-top':'1em'}),
+                dcc.Graph(
+                    id='tklp-graph',
+                    figure=tklPFig,
+                )], id='plot5'),
+            lg={'size':6, 'offset':0}, md={'size':8, 'offset':2}),
+            dbc.Col(html.Div([
+                html.H4('Highest Save Percent (Minimum 10 starts)',
+                    style={'textAlign': 'center', 'color': 'white', 'margin-bottom':'1em', 'margin-top':'1em'}),
+                dcc.Graph(
+                    id='savep-graph',
+                    figure=savePFig,
+                )], id='plot6'),
+            lg={'size':6, 'offset':0}, md={'size':8, 'offset':2}),
+        ]
+    ),
 ])
 
 if __name__ == '__main__':
